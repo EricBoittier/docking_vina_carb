@@ -1,0 +1,100 @@
+REMARK  17 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  N_20 
+REMARK    2  A    between atoms: C2_4  and  O2_8 
+REMARK    3  A    between atoms: O3_6  and  C3_17 
+REMARK    4  A    between atoms: O2_8  and  S_15 
+REMARK    5  A    between atoms: O1_9  and  C1_37 
+REMARK    6  A    between atoms: O3S_11  and  S1_28 
+REMARK    7  A    between atoms: C1_12  and  O4_32 
+REMARK    8  A    between atoms: C4_14  and  O4_32 
+REMARK    9  A    between atoms: C6_16  and  C5_26 
+REMARK   10  A    between atoms: O4_18  and  C4_21 
+REMARK   11  A    between atoms: N_20  and  S1_28 
+REMARK   12  A    between atoms: C5_22  and  C6_35 
+REMARK   13  A    between atoms: S12_24  and  O3_30 
+REMARK   14  A    between atoms: O6_25  and  C6_35 
+REMARK   15  A    between atoms: S1_28  and  O1S_31 
+REMARK   16  A    between atoms: S1_28  and  O2S_34 
+REMARK   17  A    between atoms: O3_30  and  C3_36 
+ROOT
+ATOM      1  C2  GNX d 141      26.591  -7.265 -22.661  0.00  0.00     0.159 C 
+ATOM      2  C1  GNX d 141      26.561  -6.184 -21.587  0.00  0.00     0.282 C 
+ATOM      3  C4  GNX d 141      28.300  -5.845 -23.834  0.00  0.00     0.181 C 
+ATOM      4  C5  GNX d 141      28.148  -4.864 -22.678  0.00  0.00     0.179 C 
+ATOM      5  O5  GNX d 141      26.833  -4.931 -22.173  0.00  0.00    -0.349 OA
+ATOM      6  C3  GNX d 141      27.922  -7.258 -23.404  0.00  0.00     0.199 C 
+ENDROOT
+BRANCH   2   7
+ATOM      7  O4  IDY d 142      27.535  -6.467 -20.608  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  IDY d 142      26.917  -6.341 -19.133  0.00  0.00     0.195 C 
+ATOM      9  C3  IDY d 142      26.347  -7.711 -18.731  0.00  0.00     0.185 C 
+ATOM     10  C2  IDY d 142      27.391  -8.784 -18.395  0.00  0.00     0.231 C 
+ATOM     11  C1  IDY d 142      28.539  -8.163 -17.596  0.00  0.00     0.293 C 
+ATOM     12  O5  IDY d 142      29.060  -6.928 -18.095  0.00  0.00    -0.340 OA
+ATOM     13  C5  IDY d 142      28.135  -5.867 -18.331  0.00  0.00     0.257 C 
+BRANCH   9  14
+ATOM     14  O3  IDY d 142      25.485  -7.556 -17.585  0.00  0.00    -0.390 OA
+ATOM     15  H   IDY d 142      25.125  -8.421 -17.331  0.00  0.00     0.210 HD
+ENDBRANCH   9  14
+BRANCH  10  16
+ATOM     16  O2  IDY d 142      27.837  -9.541 -19.544  0.00  0.00    -0.244 OA
+BRANCH  16  17
+ATOM     17  S   IDY d 142      28.425 -10.982 -19.438  0.00  0.00     0.252 S 
+ATOM     18  OS3 IDY d 142      29.354 -11.127 -18.258  0.00  0.00    -0.572 OA
+ATOM     19  OS1 IDY d 142      29.189 -11.279 -20.668  0.00  0.00    -0.572 OA
+ATOM     20  OS2 IDY d 142      27.349 -11.995 -19.341  0.00  0.00    -0.572 OA
+ENDBRANCH  16  17
+ENDBRANCH  10  16
+BRANCH  11  21
+ATOM     21  O1  IDY d 142      28.813  -8.719 -16.131  0.00  0.00    -0.363 OA
+ATOM     22  C7  IDY d 142      28.860  -8.523 -15.176  0.00  0.00     0.204 C 
+ENDBRANCH  11  21
+BRANCH  13  23
+ATOM     23  C6  IDY d 142      28.910  -4.865 -19.145  0.00  0.00     0.206 C 
+ATOM     24  O62 IDY d 142      29.719  -5.266 -20.031  0.00  0.00    -0.646 OA
+ATOM     25  O61 IDY d 142      28.772  -3.592 -18.893  0.00  0.00    -0.646 OA
+ENDBRANCH  13  23
+ENDBRANCH   7   8
+ENDBRANCH   2   7
+BRANCH   1  26
+ATOM     26  N   GNX d 141      26.364  -8.566 -22.063  0.00  0.00    -0.210 NA
+ATOM     27  H   GNX d 141      26.472  -8.450 -21.055  0.00  0.00     0.140 HD
+BRANCH  26  28
+ATOM     28  S1  GNX d 141      24.972  -9.320 -22.295  0.00  0.00     0.156 S 
+BRANCH  28  29
+ATOM     29  O3S GNX d 141      23.962  -8.582 -21.541  0.00  0.00    -0.296 OA
+ATOM     30  H   GNX d 141      23.879  -7.686 -21.903  0.00  0.00     0.231 HD
+ENDBRANCH  28  29
+BRANCH  28  31
+ATOM     31  O1S GNX d 141      24.709  -9.288 -23.731  0.00  0.00    -0.296 OA
+ATOM     32  H   GNX d 141      24.605  -8.368 -24.020  0.00  0.00     0.231 HD
+ENDBRANCH  28  31
+BRANCH  28  33
+ATOM     33  O2S GNX d 141      25.140 -10.680 -21.792  0.00  0.00    -0.296 OA
+ATOM     34  H   GNX d 141      25.312 -10.653 -20.838  0.00  0.00     0.231 HD
+ENDBRANCH  28  33
+ENDBRANCH  26  28
+ENDBRANCH   1  26
+BRANCH   6  35
+ATOM     35  O3  GNX d 141      27.830  -8.086 -24.542  0.00  0.00    -0.247 OA
+BRANCH  35  36
+ATOM     36  S12 GNX d 141      28.659  -8.947 -25.245  0.00  0.00     0.252 S 
+ATOM     37  O12 GNX d 141      28.025  -9.391 -26.532  0.00  0.00    -0.572 OA
+ATOM     38  O32 GNX d 141      28.556 -10.055 -24.290  0.00  0.00    -0.572 OA
+ATOM     39  O22 GNX d 141      30.087  -8.756 -25.502  0.00  0.00    -0.572 OA
+ENDBRANCH  35  36
+ENDBRANCH   6  35
+BRANCH   4  40
+ATOM     40  C6  GNX d 141      28.447  -3.439 -23.128  0.00  0.00     0.198 C 
+BRANCH  40  41
+ATOM     41  O6  GNX d 141      27.507  -2.558 -22.554  0.00  0.00    -0.398 OA
+ATOM     42  H   GNX d 141      27.697  -1.651 -22.840  0.00  0.00     0.209 HD
+ENDBRANCH  40  41
+ENDBRANCH   4  40
+BRANCH   3  43
+ATOM     43  O4  GNX d 141      29.635  -5.833 -24.288  0.00  0.00    -0.390 OA
+ATOM     44  H   GNX d 141      29.732  -6.457 -25.024  0.00  0.00     0.210 HD
+ENDBRANCH   3  43
+TORSDOF 17

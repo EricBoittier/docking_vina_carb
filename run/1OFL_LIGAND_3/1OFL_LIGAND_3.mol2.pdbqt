@@ -1,0 +1,74 @@
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_1  and  O3_15 
+REMARK    2  A    between atoms: O1_3  and  C1_27 
+REMARK    3  A    between atoms: S_6  and  O4_8 
+REMARK    4  A    between atoms: O6_7  and  C6_23 
+REMARK    5  A    between atoms: O4_8  and  C4_29 
+REMARK    6  A    between atoms: O2_9  and  C2_24 
+REMARK    7  A    between atoms: O3_11  and  C3_20 
+REMARK    8  A    between atoms: O3_11  and  C1_16 
+REMARK    9  A    between atoms: C6_12  and  C5_22 
+REMARK   10  A    between atoms: N_13  and  C2_26 
+REMARK       I    between atoms: N_13  and  C7_18 
+REMARK   11  A    between atoms: C6_23  and  C5_30 
+ROOT
+ATOM      1  O5  NGK d 526      34.270  10.905  26.055  0.00  0.00    -0.349 OA
+ATOM      2  C3  NGK d 526      34.712   9.016  28.135  0.00  0.00     0.185 C 
+ATOM      3  C2  NGK d 526      35.427   8.900  26.786  0.00  0.00     0.171 C 
+ATOM      4  C1  NGK d 526      34.566   9.559  25.703  0.00  0.00     0.282 C 
+ATOM      5  C4  NGK d 526      34.470  10.501  28.407  0.00  0.00     0.207 C 
+ATOM      6  C5  NGK d 526      33.616  11.150  27.315  0.00  0.00     0.181 C 
+ENDROOT
+BRANCH   2   7
+ATOM      7  O3  NGK d 526      35.551   8.572  29.177  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C1  GCD d 527      35.058   7.328  29.725  0.00  0.00     0.298 C 
+ATOM      9  C2  GCD d 527      36.181   6.747  30.555  0.00  0.00     0.206 C 
+ATOM     10  C3  GCD d 527      36.615   7.673  31.715  0.00  0.00     0.177 C 
+ATOM     11  C4  GCD d 527      35.409   8.314  32.360  0.00  0.00     0.051 C 
+ATOM     12  C5  GCD d 527      34.162   8.248  31.843  0.00  0.00     0.147 C 
+ATOM     13  O5  GCD d 527      33.921   7.534  30.581  0.00  0.00    -0.311 OA
+BRANCH   9  14
+ATOM     14  O2  GCD d 527      35.654   5.533  31.071  0.00  0.00    -0.388 OA
+ATOM     15  H   GCD d 527      36.324   5.097  31.620  0.00  0.00     0.210 HD
+ENDBRANCH   9  14
+BRANCH  10  16
+ATOM     16  O3  GCD d 527      37.518   8.699  31.288  0.00  0.00    -0.389 OA
+ATOM     17  H   GCD d 527      37.074   9.273  30.644  0.00  0.00     0.210 HD
+ENDBRANCH  10  16
+BRANCH  12  18
+ATOM     18  C6  GCD d 527      33.093   8.936  32.563  0.00  0.00     0.233 C 
+ATOM     19  O6A GCD d 527      33.380   9.458  33.662  0.00  0.00    -0.642 OA
+ATOM     20  O6B GCD d 527      31.947   8.997  32.059  0.00  0.00    -0.642 OA
+ENDBRANCH  12  18
+ENDBRANCH   7   8
+ENDBRANCH   2   7
+BRANCH   3  21
+ATOM     21  N   NGK d 526      35.739   7.518  26.417  0.00  0.00    -0.349 N 
+ATOM     22  C7  NGK d 526      36.949   6.974  26.595  0.00  0.00     0.214 C 
+ATOM     23  O7  NGK d 526      37.871   7.546  27.182  0.00  0.00    -0.274 OA
+ATOM     24  C8  NGK d 526      37.136   5.609  25.995  0.00  0.00     0.117 C 
+ATOM     25  H   NGK d 526      35.028   6.965  26.021  0.00  0.00     0.163 HD
+ENDBRANCH   3  21
+BRANCH   5  26
+ATOM     26  O4  NGK d 526      35.767  11.076  28.336  0.00  0.00    -0.246 OA
+BRANCH  26  27
+ATOM     27  S   NGK d 526      36.404  12.036  29.496  0.00  0.00     0.252 S 
+ATOM     28  O2S NGK d 526      37.901  12.282  29.093  0.00  0.00    -0.572 OA
+ATOM     29  O1S NGK d 526      35.675  13.265  29.653  0.00  0.00    -0.572 OA
+ATOM     30  O3S NGK d 526      36.392  11.174  30.670  0.00  0.00    -0.572 OA
+ENDBRANCH  26  27
+ENDBRANCH   5  26
+BRANCH   4  31
+ATOM     31  O1  NGK d 526      33.327   8.898  25.629  0.00  0.00    -0.369 OA
+ATOM     32  H   NGK d 526      32.780   9.313  24.944  0.00  0.00     0.212 HD
+ENDBRANCH   4  31
+BRANCH   6  33
+ATOM     33  C6  NGK d 526      33.401  12.668  27.516  0.00  0.00     0.199 C 
+BRANCH  33  34
+ATOM     34  O6  NGK d 526      32.423  12.798  28.535  0.00  0.00    -0.398 OA
+ATOM     35  H   NGK d 526      32.251  13.738  28.700  0.00  0.00     0.209 HD
+ENDBRANCH  33  34
+ENDBRANCH   6  33
+TORSDOF 11
