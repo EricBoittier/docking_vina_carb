@@ -1,0 +1,52 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C6_2  and  C5_28 
+REMARK       I    between atoms: C6_2  and  O6_5 
+REMARK       I    between atoms: C2_4  and  O2_16 
+REMARK       I    between atoms: C5_6  and  C6_24 
+REMARK       I    between atoms: C4_7  and  O4_17 
+REMARK       I    between atoms: O3_8  and  C3_19 
+REMARK       I    between atoms: O3_10  and  C3_18 
+REMARK       I    between atoms: O3_10  and  C1_30 
+REMARK       I    between atoms: N_11  and  C2_26 
+REMARK       I    between atoms: N_11  and  C7_21 
+REMARK       I    between atoms: O4_17  and  S_25 
+REMARK       I    between atoms: O1_27  and  C1_29 
+ROOT
+ATOM      1  O5  GC4 d 516      27.985  23.254  -2.629  0.00  0.00    -0.311 OA
+ATOM      2  O6A GC4 d 516      29.695  26.552  -2.462  0.00  0.00    -0.642 OA
+ATOM      3  C2  GC4 d 516      25.773  23.331  -3.603  0.00  0.00     0.206 C 
+ATOM      4  C5  GC4 d 516      28.242  24.668  -2.751  0.00  0.00     0.147 C 
+ATOM      5  O3  GC4 d 516      24.953  25.336  -2.509  0.00  0.00    -0.389 OA
+ATOM      6  O6B GC4 d 516      30.400  24.599  -1.751  0.00  0.00    -0.642 OA
+ATOM      7  O2  GC4 d 516      26.297  22.861  -4.838  0.00  0.00    -0.388 OA
+ATOM      8  C3  GC4 d 516      25.724  24.877  -3.621  0.00  0.00     0.177 C 
+ATOM      9  C4  GC4 d 516      27.089  25.531  -3.274  0.00  0.00     0.051 C 
+ATOM     10  C6  GC4 d 516      29.548  25.317  -2.314  0.00  0.00     0.233 C 
+ATOM     11  C1  GC4 d 516      26.636  22.832  -2.431  0.00  0.00     0.298 C 
+ATOM     12  H   GC4 d 516      24.046  25.000  -2.584  0.00  0.00     0.210 HD
+ATOM     13  H   GC4 d 516      27.196  23.204  -4.959  0.00  0.00     0.210 HD
+ATOM     14  C6  ASG d 514      28.554  23.499   3.262  0.00  0.00     0.199 C 
+ATOM     15  O6  ASG d 514      29.754  24.141   2.856  0.00  0.00    -0.398 OA
+ATOM     16  C4  ASG d 514      27.466  23.348   0.962  0.00  0.00     0.207 C 
+ATOM     17  O7  ASG d 514      23.346  21.468  -0.685  0.00  0.00    -0.274 OA
+ATOM     18  O3  ASG d 514      26.191  23.109  -1.096  0.00  0.00    -0.348 OA
+ATOM     19  N   ASG d 514      25.333  20.438  -0.269  0.00  0.00    -0.349 N 
+ATOM     20  OSC ASG d 514      27.700  26.171   0.511  0.00  0.00    -0.572 OA
+ATOM     21  C8  ASG d 514      23.747  19.445  -1.815  0.00  0.00     0.117 C 
+ATOM     22  O5  ASG d 514      26.955  21.812   2.777  0.00  0.00    -0.349 OA
+ATOM     23  O4  ASG d 514      26.494  24.310   1.377  0.00  0.00    -0.246 OA
+ATOM     24  C3  ASG d 514      26.827  22.370  -0.040  0.00  0.00     0.185 C 
+ATOM     25  C7  ASG d 514      24.140  20.524  -0.869  0.00  0.00     0.214 C 
+ATOM     26  OSA ASG d 514      25.422  26.033   0.193  0.00  0.00    -0.572 OA
+ATOM     27  OSB ASG d 514      26.333  26.405   2.378  0.00  0.00    -0.572 OA
+ATOM     28  S   ASG d 514      26.473  25.745   1.122  0.00  0.00     0.252 S 
+ATOM     29  C2  ASG d 514      25.800  21.469   0.650  0.00  0.00     0.171 C 
+ATOM     30  O1  ASG d 514      25.495  20.067   2.551  0.00  0.00    -0.369 OA
+ATOM     31  C5  ASG d 514      28.015  22.587   2.178  0.00  0.00     0.181 C 
+ATOM     32  C1  ASG d 514      26.444  20.817   1.876  0.00  0.00     0.282 C 
+ATOM     33  H   ASG d 514      30.432  23.472   2.672  0.00  0.00     0.209 HD
+ATOM     34  H   ASG d 514      25.909  19.661  -0.452  0.00  0.00     0.163 HD
+ATOM     35  H   ASG d 514      25.902  19.654   3.328  0.00  0.00     0.212 HD
+ENDROOT
+TORSDOF 11
