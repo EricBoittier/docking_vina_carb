@@ -1,0 +1,87 @@
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_2  and  O1_17 
+REMARK    2  A    between atoms: O2_4  and  C2_27 
+REMARK    3  A    between atoms: O2_4  and  S_25 
+REMARK    4  A    between atoms: N_5  and  C2_12 
+REMARK    5  A    between atoms: N_5  and  S1_10 
+REMARK    6  A    between atoms: S2_6  and  O6_33 
+REMARK    7  A    between atoms: C5_7  and  C6_29 
+REMARK    8  A    between atoms: O1_9  and  C1_16 
+REMARK    9  A    between atoms: C3_13  and  O3_21 
+REMARK   10  A    between atoms: C1_15  and  O1_17 
+REMARK   11  A    between atoms: O3_18  and  C3_32 
+REMARK   12  A    between atoms: C6_28  and  C5_35 
+REMARK   13  A    between atoms: C6_28  and  O6_33 
+REMARK   14  A    between atoms: C6_29  and  O61_31 
+ROOT
+ATOM      1  C2  SGN d 403      25.283 -68.148  69.067  0.00  0.00     0.157 C 
+ATOM      2  C1  SGN d 403      26.407 -68.763  69.897  0.00  0.00     0.282 C 
+ATOM      3  C4  SGN d 403      24.230 -67.507  71.278  0.00  0.00     0.067 C 
+ATOM      4  O5  SGN d 403      25.860 -69.291  71.113  0.00  0.00    -0.352 OA
+ATOM      5  C3  SGN d 403      23.981 -68.081  69.880  0.00  0.00     0.144 C 
+ATOM      6  C5  SGN d 403      25.410 -68.209  71.942  0.00  0.00     0.152 C 
+ENDROOT
+BRANCH   2   7
+ATOM      7  O1  SGN d 403      27.402 -67.753  70.177  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  IDS d 402      28.610 -68.318  70.726  0.00  0.00     0.195 C 
+ATOM      9  C3  IDS d 402      29.610 -68.596  69.602  0.00  0.00     0.185 C 
+ATOM     10  C2  IDS d 402      30.997 -68.904  70.170  0.00  0.00     0.231 C 
+ATOM     11  C1  IDS d 402      31.449 -67.786  71.104  0.00  0.00     0.291 C 
+ATOM     12  O5  IDS d 402      30.423 -66.777  71.184  0.00  0.00    -0.340 OA
+ATOM     13  C5  IDS d 402      29.221 -67.344  71.737  0.00  0.00     0.253 C 
+BRANCH   9  14
+ATOM     14  O3  IDS d 402      29.162 -69.718  68.830  0.00  0.00    -0.390 OA
+ATOM     15  H   IDS d 402      29.107 -70.501  69.400  0.00  0.00     0.210 HD
+ENDBRANCH   9  14
+BRANCH  10  16
+ATOM     16  O2  IDS d 402      31.936 -69.040  69.079  0.00  0.00    -0.244 OA
+BRANCH  16  17
+ATOM     17  S   IDS d 402      33.339 -68.402  69.133  0.00  0.00     0.252 S 
+ATOM     18  O1S IDS d 402      33.242 -67.013  69.773  0.00  0.00    -0.572 OA
+ATOM     19  O2S IDS d 402      34.282 -69.290  69.971  0.00  0.00    -0.572 OA
+ATOM     20  O3S IDS d 402      33.903 -68.263  67.704  0.00  0.00    -0.572 OA
+ENDBRANCH  16  17
+ENDBRANCH  10  16
+BRANCH  11  21
+ATOM     21  O1  IDS d 402      31.720 -68.330  72.416  0.00  0.00    -0.368 OA
+ATOM     22  H   IDS d 402      32.411 -69.007  72.349  0.00  0.00     0.212 HD
+ENDBRANCH  11  21
+BRANCH  13  23
+ATOM     23  C6  IDS d 402      28.225 -66.215  72.085  0.00  0.00     0.172 C 
+ATOM     24  O62 IDS d 402      27.871 -66.124  73.295  0.00  0.00    -0.648 OA
+BRANCH  23  25
+ATOM     25  O61 IDS d 402      27.851 -65.460  71.139  0.00  0.00    -0.774 OA
+ATOM     26  H   IDS d 402      28.169 -65.606  70.270  0.00  0.00     0.167 HD
+ENDBRANCH  23  25
+ENDBRANCH  13  23
+ENDBRANCH   7   8
+ENDBRANCH   2   7
+BRANCH   1  27
+ATOM     27  N   SGN d 403      25.665 -66.818  68.562  0.00  0.00    -0.189 NA
+ATOM     28  H   SGN d 403      26.609 -66.596  68.879  0.00  0.00     0.143 HD
+BRANCH  27  29
+ATOM     29  S1  SGN d 403      25.626 -66.800  66.908  0.00  0.00     0.183 S 
+ATOM     30  O1S SGN d 403      24.864 -65.562  66.428  0.00  0.00    -0.582 OA
+ATOM     31  O2S SGN d 403      27.053 -66.761  66.354  0.00  0.00    -0.582 OA
+ATOM     32  O3S SGN d 403      24.920 -68.060  66.399  0.00  0.00    -0.582 OA
+ENDBRANCH  27  29
+ENDBRANCH   1  27
+BRANCH   5  33
+ATOM     33  O3  SGN d 403      23.411 -69.397  69.989  0.00  0.00    -0.394 OA
+ATOM     34  H   SGN d 403      23.255 -69.756  69.102  0.00  0.00     0.210 HD
+ENDBRANCH   5  33
+BRANCH   6  35
+ATOM     35  C6  SGN d 403      24.997 -68.748  73.317  0.00  0.00     0.225 C 
+BRANCH  35  36
+ATOM     36  O6  SGN d 403      25.188 -70.169  73.353  0.00  0.00    -0.254 OA
+BRANCH  36  37
+ATOM     37  S2  SGN d 403      26.422 -70.794  74.019  0.00  0.00     0.251 S 
+ATOM     38  O4S SGN d 403      26.006 -72.050  74.785  0.00  0.00    -0.572 OA
+ATOM     39  O5S SGN d 403      27.449 -71.176  72.949  0.00  0.00    -0.572 OA
+ATOM     40  O6S SGN d 403      27.048 -69.792  74.992  0.00  0.00    -0.572 OA
+ENDBRANCH  36  37
+ENDBRANCH  35  36
+ENDBRANCH   6  35
+TORSDOF 14

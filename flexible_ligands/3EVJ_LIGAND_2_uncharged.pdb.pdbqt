@@ -1,0 +1,58 @@
+REMARK WARNING: 32 MAX_TORS EXCEEDED!!!
+REMARK  51 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C21_1  and  C23_15 
+REMARK    2  A    between atoms: O10_2  and  C12_60 
+REMARK    3  A    between atoms: O3A_3  and  C39_5 
+REMARK    4  A    between atoms: O3A_3  and  S3B_38 
+REMARK    5  A    between atoms: O3I_4  and  S3H_84 
+REMARK    6  A    between atoms: C29_7  and  O2A_66 
+REMARK    7  A    between atoms: C43_8  and  C41_21 
+REMARK    8  A    between atoms: C43_8  and  O45_80 
+REMARK    9  A    between atoms: O1L_10  and  C1K_32 
+REMARK   10  A    between atoms: O1L_10  and  C20_55 
+REMARK   11  A    between atoms: C5F_11  and  N5G_39 
+REMARK   12  A    between atoms: S17_12  and  O16_59 
+REMARK   13  A    between atoms: S17_12  and  O1A_14 
+REMARK   14  A    between atoms: C49_13  and  O4A_65 
+REMARK   15  A    between atoms: C23_15  and  O25_22 
+REMARK   16  A    between atoms: O5I_18  and  S5H_44 
+REMARK   17  A    between atoms: C3L_19  and  O3M_64 
+REMARK   18  A    between atoms: N1F_20  and  C1E_86 
+REMARK   19  A    between atoms: N1F_20  and  S1G_62 
+REMARK   20  A    between atoms: C26_23  and  O27_85 
+REMARK   21  A    between atoms: C4F_24  and  O4G_76 
+REMARK   22  A    between atoms: C1B_25  and  O1C_26 
+REMARK   23  A    between atoms: O5M_27  and  C5L_33 
+REMARK   24  A    between atoms: O2D_29  and  C2C_82 
+REMARK   25  A    between atoms: O2D_29  and  C30_68 
+REMARK   26  A    between atoms: C59_30  and  O5A_36 
+REMARK   27  A    between atoms: C33_34  and  C31_58 
+REMARK   28  A    between atoms: C33_34  and  O34_54 
+REMARK   29  A    between atoms: S35_35  and  O34_54 
+REMARK   30  A    between atoms: S35_35  and  O38_71 
+REMARK   31  A    between atoms: S3B_38  and  O3E_72 
+REMARK   32  A    between atoms: N5G_39  and  S5H_44 
+REMARK   33  A    between atoms: C3F_40  and  N3G_56 
+REMARK   34  A    between atoms: O1I_41  and  S1G_62 
+REMARK   35  A    between atoms: C51_43  and  C53_51 
+REMARK   36  A    between atoms: S5H_44  and  O5J_47 
+REMARK   37  A    between atoms: S5H_44  and  O5K_78 
+REMARK   38  A    between atoms: C15_49  and  C13_57 
+REMARK   39  A    between atoms: C15_49  and  O16_59 
+REMARK   40  A    between atoms: O1J_50  and  S1G_62 
+REMARK   41  A    between atoms: C53_51  and  O54_75 
+REMARK   42  A    between atoms: C40_52  and  O3M_64 
+REMARK   43  A    between atoms: N3G_56  and  S3H_84 
+REMARK   44  A    between atoms: O47_61  and  C46_83 
+REMARK   45  A    between atoms: O3K_63  and  S3H_84 
+REMARK   46  A    between atoms: O4A_65  and  S4B_90 
+REMARK   47  A    between atoms: S55_67  and  O54_75 
+REMARK   48  A    between atoms: S55_67  and  O58_87 
+REMARK   49  A    between atoms: C50_74  and  O4G_76 
+REMARK   50  A    between atoms: O3J_77  and  S3H_84 
+REMARK   51  A    between atoms: O4D_81  and  S4B_90 
+ROOT
+ATOM      1  H   NTO d 869      -5.281  20.479 -16.763  0.00  0.00     0.000 HD
+ENDROOT
+TORSDOF 51

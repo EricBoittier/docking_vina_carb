@@ -1,0 +1,50 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C4_1  and  O4_24 
+REMARK       I    between atoms: C2_2  and  O2_6 
+REMARK       I    between atoms: C1_3  and  O3_10 
+REMARK       I    between atoms: O6_4  and  C6_13 
+REMARK       I    between atoms: C7_5  and  N2_9 
+REMARK       I    between atoms: C3_7  and  O3_10 
+REMARK       I    between atoms: N2_9  and  C2_22 
+REMARK       I    between atoms: C6_11  and  C5_16 
+REMARK       I    between atoms: C6_11  and  O6B_19 
+REMARK       I    between atoms: C6_13  and  C5_20 
+REMARK       I    between atoms: C1_21  and  O1_25 
+REMARK       I    between atoms: O3_23  and  C3_26 
+ROOT
+ATOM      1  C4  NAG d1004      31.712   4.881  36.775  0.00  0.00     0.180 C 
+ATOM      2  O6  NAG d1004      35.093   6.044  35.447  0.00  0.00    -0.398 OA
+ATOM      3  C7  NAG d1004      27.481   5.701  34.347  0.00  0.00     0.214 C 
+ATOM      4  C3  NAG d1004      30.316   5.547  36.750  0.00  0.00     0.183 C 
+ATOM      5  O7  NAG d1004      27.651   4.711  33.592  0.00  0.00    -0.274 OA
+ATOM      6  N2  NAG d1004      28.471   6.244  35.229  0.00  0.00    -0.349 N 
+ATOM      7  O3  NAG d1004      29.346   4.771  37.533  0.00  0.00    -0.348 OA
+ATOM      8  C6  NAG d1004      34.078   5.118  35.933  0.00  0.00     0.198 C 
+ATOM      9  O5  NAG d1004      32.187   5.870  34.568  0.00  0.00    -0.349 OA
+ATOM     10  C8  NAG d1004      26.121   6.372  34.314  0.00  0.00     0.117 C 
+ATOM     11  C5  NAG d1004      32.688   5.723  35.963  0.00  0.00     0.179 C 
+ATOM     12  C1  NAG d1004      30.844   6.461  34.494  0.00  0.00     0.282 C 
+ATOM     13  C2  NAG d1004      29.845   5.626  35.305  0.00  0.00     0.171 C 
+ATOM     14  O4  NAG d1004      32.225   4.766  38.130  0.00  0.00    -0.390 OA
+ATOM     15  O1  NAG d1004      30.441   6.561  33.118  0.00  0.00    -0.369 OA
+ATOM     16  H   NAG d1004      35.958   5.606  35.449  0.00  0.00     0.209 HD
+ATOM     17  H   NAG d1004      28.253   7.024  35.788  0.00  0.00     0.163 HD
+ATOM     18  H   NAG d1004      32.319   5.651  38.517  0.00  0.00     0.210 HD
+ATOM     19  H   NAG d1004      30.419   5.676  32.722  0.00  0.00     0.212 HD
+ATOM     20  C2  GC4 d1003      27.945   4.328  39.477  0.00  0.00     0.202 C 
+ATOM     21  C1  GC4 d1003      28.902   5.295  38.796  0.00  0.00     0.292 C 
+ATOM     22  O2  GC4 d1003      26.798   4.098  38.633  0.00  0.00    -0.388 OA
+ATOM     23  C6  GC4 d1003      31.029   6.435  41.733  0.00  0.00     0.170 C 
+ATOM     24  O5  GC4 d1003      30.084   5.591  39.650  0.00  0.00    -0.343 OA
+ATOM     25  O6A GC4 d1003      31.236   7.704  41.926  0.00  0.00    -0.648 OA
+ATOM     26  C5  GC4 d1003      29.753   6.137  40.981  0.00  0.00     0.224 C 
+ATOM     27  C4  GC4 d1003      28.798   5.161  41.685  0.00  0.00     0.077 C 
+ATOM     28  O6B GC4 d1003      31.751   5.394  42.054  0.00  0.00    -0.774 OA
+ATOM     29  O3  GC4 d1003      26.632   3.988  41.481  0.00  0.00    -0.393 OA
+ATOM     30  C3  GC4 d1003      27.539   4.919  40.811  0.00  0.00     0.154 C 
+ATOM     31  H   GC4 d1003      26.346   4.940  38.465  0.00  0.00     0.210 HD
+ATOM     32  H   GC4 d1003      31.453   4.532  41.838  0.00  0.00     0.167 HD
+ATOM     33  H   GC4 d1003      25.849   3.844  40.927  0.00  0.00     0.210 HD
+ENDROOT
+TORSDOF 11

@@ -1,0 +1,59 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: S_2  and  O2_34 
+REMARK       I    between atoms: O1_5  and  C1_28 
+REMARK       I    between atoms: C4_6  and  O4_26 
+REMARK       I    between atoms: N_7  and  C2_27 
+REMARK       I    between atoms: N_7  and  S1_33 
+REMARK       I    between atoms: S2_8  and  O6_9 
+REMARK       I    between atoms: O6_9  and  C6_24 
+REMARK       I    between atoms: O62_10  and  C6_21 
+REMARK       I    between atoms: C2_11  and  O2_34 
+REMARK       I    between atoms: C5_13  and  C6_21 
+REMARK       I    between atoms: C3_18  and  O3_25 
+REMARK       I    between atoms: C3_20  and  O3_35 
+REMARK       I    between atoms: C6_24  and  C5_32 
+REMARK       I    between atoms: O4_26  and  C1_30 
+ROOT
+ATOM      1  O61 IDU d1218      23.396 -16.788  -3.663  0.00  0.00    -0.648 OA
+ATOM      2  S   IDU d1218      18.399 -11.090  -2.171  0.00  0.00     0.252 S 
+ATOM      3  O3S IDU d1218      18.677 -10.170  -3.295  0.00  0.00    -0.572 OA
+ATOM      4  O62 IDU d1218      23.144 -15.828  -1.674  0.00  0.00    -0.774 OA
+ATOM      5  C2  IDU d1218      19.893 -12.839  -3.503  0.00  0.00     0.228 C 
+ATOM      6  O2S IDU d1218      16.998 -11.559  -2.253  0.00  0.00    -0.572 OA
+ATOM      7  C5  IDU d1218      21.933 -14.929  -3.518  0.00  0.00     0.224 C 
+ATOM      8  C3  IDU d1218      19.485 -14.304  -3.720  0.00  0.00     0.156 C 
+ATOM      9  O5  IDU d1218      22.206 -13.627  -2.997  0.00  0.00    -0.343 OA
+ATOM     10  C6  IDU d1218      22.888 -15.915  -2.910  0.00  0.00     0.170 C 
+ATOM     11  C4  IDU d1218      20.495 -15.319  -3.178  0.00  0.00     0.077 C 
+ATOM     12  O3  IDU d1218      19.268 -14.543  -5.116  0.00  0.00    -0.393 OA
+ATOM     13  C1  IDU d1218      21.404 -12.569  -3.548  0.00  0.00     0.294 C 
+ATOM     14  O1S IDU d1218      18.617 -10.368  -0.896  0.00  0.00    -0.572 OA
+ATOM     15  O2  IDU d1218      19.391 -12.388  -2.247  0.00  0.00    -0.244 OA
+ATOM     16  H   IDU d1218      22.739 -15.159  -1.158  0.00  0.00     0.167 HD
+ATOM     17  H   IDU d1218      20.097 -14.406  -5.600  0.00  0.00     0.210 HD
+ATOM     18  O5  SGN d1219      23.485  -9.089  -5.909  0.00  0.00    -0.350 OA
+ATOM     19  O1  SGN d1219      24.702 -10.205  -7.544  0.00  0.00    -0.369 OA
+ATOM     20  C4  SGN d1219      22.738 -11.104  -4.759  0.00  0.00     0.186 C 
+ATOM     21  N   SGN d1219      26.455 -11.263  -5.621  0.00  0.00    -0.189 NA
+ATOM     22  S2  SGN d1219      20.353  -7.249  -4.202  0.00  0.00     0.251 S 
+ATOM     23  O6  SGN d1219      21.374  -8.004  -5.109  0.00  0.00    -0.254 OA
+ATOM     24  O1S SGN d1219      28.898 -11.433  -5.831  0.00  0.00    -0.582 OA
+ATOM     25  O3S SGN d1219      27.938  -9.389  -4.964  0.00  0.00    -0.582 OA
+ATOM     26  O5S SGN d1219      19.050  -7.377  -4.844  0.00  0.00    -0.572 OA
+ATOM     27  O2S SGN d1219      27.890 -11.409  -3.626  0.00  0.00    -0.582 OA
+ATOM     28  C3  SGN d1219      24.156 -11.678  -4.878  0.00  0.00     0.173 C 
+ATOM     29  O6S SGN d1219      20.811  -5.867  -4.127  0.00  0.00    -0.572 OA
+ATOM     30  C6  SGN d1219      21.125  -9.340  -5.495  0.00  0.00     0.227 C 
+ATOM     31  O4  SGN d1219      21.797 -12.155  -4.872  0.00  0.00    -0.348 OA
+ATOM     32  C2  SGN d1219      25.221 -10.621  -5.199  0.00  0.00     0.160 C 
+ATOM     33  C1  SGN d1219      24.755  -9.614  -6.260  0.00  0.00     0.278 C 
+ATOM     34  O4S SGN d1219      20.348  -7.886  -2.888  0.00  0.00    -0.572 OA
+ATOM     35  C5  SGN d1219      22.437 -10.044  -5.823  0.00  0.00     0.181 C 
+ATOM     36  S1  SGN d1219      27.865 -10.851  -4.978  0.00  0.00     0.183 S 
+ATOM     37  O3  SGN d1219      24.494 -12.341  -3.677  0.00  0.00    -0.391 OA
+ATOM     38  H   SGN d1219      24.405  -9.546  -8.191  0.00  0.00     0.212 HD
+ATOM     39  H   SGN d1219      26.537 -11.102  -6.625  0.00  0.00     0.143 HD
+ATOM     40  H   SGN d1219      24.497 -11.704  -2.946  0.00  0.00     0.210 HD
+ENDROOT
+TORSDOF 14

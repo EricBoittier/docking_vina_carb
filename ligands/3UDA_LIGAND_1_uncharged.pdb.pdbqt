@@ -1,0 +1,66 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C5_2  and  C6_26 
+REMARK       I    between atoms: N_3  and  S1_9 
+REMARK       I    between atoms: N_3  and  C2_25 
+REMARK       I    between atoms: O2_4  and  S_29 
+REMARK       I    between atoms: O2_4  and  C2_27 
+REMARK       I    between atoms: C1_6  and  O4_33 
+REMARK       I    between atoms: C4_10  and  O4_33 
+REMARK       I    between atoms: O3_11  and  C3_21 
+REMARK       I    between atoms: O3_11  and  S3_15 
+REMARK       I    between atoms: C4_12  and  O4_30 
+REMARK       I    between atoms: S2_16  and  O6_17 
+REMARK       I    between atoms: O6_17  and  C6_28 
+REMARK       I    between atoms: C1_18  and  O1_24 
+REMARK       I    between atoms: O62_20  and  C6_26 
+REMARK       I    between atoms: C5_22  and  C6_28 
+REMARK       I    between atoms: O3_31  and  C3_34 
+ROOT
+ATOM      1  O2S SUS d 141      -3.561   8.849  14.883  0.00  0.00    -0.582 OA
+ATOM      2  N   SUS d 141      -2.226  10.065  16.549  0.00  0.00    -0.189 NA
+ATOM      3  C1  SUS d 141      -2.321  12.358  17.367  0.00  0.00     0.282 C 
+ATOM      4  O8S SUS d 141      -0.086   8.840  14.771  0.00  0.00    -0.572 OA
+ATOM      5  S1  SUS d 141      -3.531   9.172  16.307  0.00  0.00     0.183 S 
+ATOM      6  O3  SUS d 141      -1.001  11.094  14.109  0.00  0.00    -0.247 OA
+ATOM      7  C4  SUS d 141      -0.791  13.256  15.121  0.00  0.00     0.181 C 
+ATOM      8  S3  SUS d 141      -0.430   9.831  13.778  0.00  0.00     0.252 S 
+ATOM      9  S2  SUS d 141      -2.752  17.284  15.705  0.00  0.00     0.251 S 
+ATOM     10  O6  SUS d 141      -2.137  16.135  16.563  0.00  0.00    -0.254 OA
+ATOM     11  C3  SUS d 141      -0.947  11.757  15.351  0.00  0.00     0.199 C 
+ATOM     12  C5  SUS d 141      -0.999  14.033  16.416  0.00  0.00     0.181 C 
+ATOM     13  O6S SUS d 141      -2.527  18.531  16.431  0.00  0.00    -0.572 OA
+ATOM     14  C2  SUS d 141      -2.214  11.456  16.143  0.00  0.00     0.162 C 
+ATOM     15  C6  SUS d 141      -0.924  15.534  16.171  0.00  0.00     0.227 C 
+ATOM     16  O4  SUS d 141       0.499  13.522  14.616  0.00  0.00    -0.390 OA
+ATOM     17  O5  SUS d 141      -2.257  13.707  16.963  0.00  0.00    -0.349 OA
+ATOM     18  O7S SUS d 141       0.773  10.136  13.048  0.00  0.00    -0.572 OA
+ATOM     19  O9S SUS d 141      -1.349   9.276  12.808  0.00  0.00    -0.572 OA
+ATOM     20  O5S SUS d 141      -4.172  16.988  15.544  0.00  0.00    -0.572 OA
+ATOM     21  O1S SUS d 141      -4.676   9.979  16.717  0.00  0.00    -0.582 OA
+ATOM     22  O3S SUS d 141      -3.385   7.977  17.133  0.00  0.00    -0.582 OA
+ATOM     23  O4S SUS d 141      -2.072  17.266  14.413  0.00  0.00    -0.572 OA
+ATOM     24  H   SUS d 141      -1.460   9.607  16.054  0.00  0.00     0.143 HD
+ATOM     25  H   SUS d 141       1.164  13.235  15.261  0.00  0.00     0.210 HD
+ATOM     26  C5  IDY d 142       0.700  12.514  20.456  0.00  0.00     0.253 C 
+ATOM     27  O2  IDY d 142      -0.684   9.304  19.015  0.00  0.00    -0.244 OA
+ATOM     28  OS1 IDY d 142       0.142   7.466  17.600  0.00  0.00    -0.572 OA
+ATOM     29  OS2 IDY d 142      -1.627   7.035  19.218  0.00  0.00    -0.572 OA
+ATOM     30  C4  IDY d 142      -0.686  12.518  19.810  0.00  0.00     0.195 C 
+ATOM     31  O61 IDY d 142       2.210  12.929  18.585  0.00  0.00    -0.648 OA
+ATOM     32  C7  IDY d 142       1.406  10.630  22.955  0.00  0.00     0.204 C 
+ATOM     33  C1  IDY d 142       0.494  10.029  20.969  0.00  0.00     0.293 C 
+ATOM     34  O5  IDY d 142       1.278  11.179  20.560  0.00  0.00    -0.340 OA
+ATOM     35  O62 IDY d 142       1.858  14.649  19.950  0.00  0.00    -0.774 OA
+ATOM     36  O1  IDY d 142       0.117  10.004  22.413  0.00  0.00    -0.363 OA
+ATOM     37  C6  IDY d 142       1.604  13.392  19.612  0.00  0.00     0.172 C 
+ATOM     38  C2  IDY d 142      -0.866   9.921  20.318  0.00  0.00     0.231 C 
+ATOM     39  S   IDY d 142      -0.383   7.784  18.953  0.00  0.00     0.252 S 
+ATOM     40  O3  IDY d 142      -2.744  11.479  20.996  0.00  0.00    -0.390 OA
+ATOM     41  O4  IDY d 142      -1.256  12.081  18.248  0.00  0.00    -0.348 OA
+ATOM     42  C3  IDY d 142      -1.434  11.299  20.270  0.00  0.00     0.185 C 
+ATOM     43  OS3 IDY d 142       0.609   7.378  19.990  0.00  0.00    -0.572 OA
+ATOM     44  H   IDY d 142       1.436  15.028  20.696  0.00  0.00     0.167 HD
+ATOM     45  H   IDY d 142      -3.036  12.400  20.912  0.00  0.00     0.210 HD
+ENDROOT
+TORSDOF 16

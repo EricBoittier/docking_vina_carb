@@ -1,0 +1,59 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: O3_1  and  C3_21 
+REMARK       I    between atoms: C4_2  and  O4_15 
+REMARK       I    between atoms: C5_4  and  C6_23 
+REMARK       I    between atoms: N_8  and  C2_19 
+REMARK       I    between atoms: N_8  and  S1_10 
+REMARK       I    between atoms: C2_9  and  O2_12 
+REMARK       I    between atoms: O6_11  and  C6_26 
+REMARK       I    between atoms: O6_11  and  S2_35 
+REMARK       I    between atoms: O2_12  and  S_25 
+REMARK       I    between atoms: C1_13  and  O1_27 
+REMARK       I    between atoms: O4_15  and  C1_33 
+REMARK       I    between atoms: O3_16  and  C3_29 
+REMARK       I    between atoms: O61_22  and  C6_23 
+REMARK       I    between atoms: C6_26  and  C5_28 
+ROOT
+ATOM      1  O3  SGN d 378      19.401  23.108  23.468  0.00  0.00    -0.391 OA
+ATOM      2  C4  SGN d 378      18.618  20.825  23.549  0.00  0.00     0.186 C 
+ATOM      3  O2S SGN d 378      15.056  24.560  21.996  0.00  0.00    -0.582 OA
+ATOM      4  O3S SGN d 378      16.807  25.647  23.237  0.00  0.00    -0.582 OA
+ATOM      5  N   SGN d 378      17.362  23.821  21.663  0.00  0.00    -0.189 NA
+ATOM      6  S1  SGN d 378      16.421  25.082  21.949  0.00  0.00     0.183 S 
+ATOM      7  O6  SGN d 378      16.558  19.066  24.777  0.00  0.00    -0.254 OA
+ATOM      8  C1  SGN d 378      16.406  21.586  21.876  0.00  0.00     0.278 C 
+ATOM      9  O4  SGN d 378      19.881  20.195  23.631  0.00  0.00    -0.348 OA
+ATOM     10  O1S SGN d 378      16.665  26.026  20.858  0.00  0.00    -0.582 OA
+ATOM     11  C2  SGN d 378      17.288  22.651  22.514  0.00  0.00     0.160 C 
+ATOM     12  O5  SGN d 378      16.384  20.423  22.673  0.00  0.00    -0.350 OA
+ATOM     13  C3  SGN d 378      18.691  22.123  22.757  0.00  0.00     0.173 C 
+ATOM     14  C6  SGN d 378      17.487  18.670  23.797  0.00  0.00     0.227 C 
+ATOM     15  O1  SGN d 378      16.897  21.278  20.594  0.00  0.00    -0.369 OA
+ATOM     16  C5  SGN d 378      17.661  19.855  22.875  0.00  0.00     0.181 C 
+ATOM     17  O6S SGN d 378      15.921  16.748  24.804  0.00  0.00    -0.572 OA
+ATOM     18  O4S SGN d 378      14.977  18.259  26.448  0.00  0.00    -0.572 OA
+ATOM     19  O5S SGN d 378      14.337  18.436  24.143  0.00  0.00    -0.572 OA
+ATOM     20  S2  SGN d 378      15.403  18.083  25.074  0.00  0.00     0.251 S 
+ATOM     21  H   SGN d 378      20.304  22.797  23.638  0.00  0.00     0.210 HD
+ATOM     22  H   SGN d 378      17.154  23.508  20.715  0.00  0.00     0.143 HD
+ATOM     23  H   SGN d 378      17.802  20.937  20.668  0.00  0.00     0.212 HD
+ATOM     24  C5  IXD d 379      21.698  18.376  24.193  0.00  0.00     0.224 C 
+ATOM     25  O1S IXD d 379      22.898  22.961  20.827  0.00  0.00    -0.572 OA
+ATOM     26  C4  IXD d 379      22.389  19.420  24.629  0.00  0.00     0.077 C 
+ATOM     27  C2  IXD d 379      21.360  20.864  22.943  0.00  0.00     0.228 C 
+ATOM     28  O2  IXD d 379      22.531  20.870  22.132  0.00  0.00    -0.244 OA
+ATOM     29  O2S IXD d 379      23.378  20.825  19.809  0.00  0.00    -0.572 OA
+ATOM     30  O3  IXD d 379      22.532  21.756  24.928  0.00  0.00    -0.393 OA
+ATOM     31  O62 IXD d 379      20.399  16.734  25.103  0.00  0.00    -0.648 OA
+ATOM     32  O61 IXD d 379      22.502  16.902  25.793  0.00  0.00    -0.774 OA
+ATOM     33  C6  IXD d 379      21.526  17.255  25.078  0.00  0.00     0.170 C 
+ATOM     34  O5  IXD d 379      21.099  18.457  22.871  0.00  0.00    -0.343 OA
+ATOM     35  S   IXD d 379      22.480  21.542  20.747  0.00  0.00     0.252 S 
+ATOM     36  C3  IXD d 379      21.699  20.731  24.426  0.00  0.00     0.156 C 
+ATOM     37  O3S IXD d 379      21.091  21.510  20.224  0.00  0.00    -0.572 OA
+ATOM     38  C1  IXD d 379      20.466  19.697  22.532  0.00  0.00     0.294 C 
+ATOM     39  H   IXD d 379      22.701  21.602  25.871  0.00  0.00     0.210 HD
+ATOM     40  H   IXD d 379      23.324  17.346  25.716  0.00  0.00     0.167 HD
+ENDROOT
+TORSDOF 14

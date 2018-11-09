@@ -1,0 +1,69 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C12_1  and  O18_23 
+REMARK       I    between atoms: O28_2  and  S20_31 
+REMARK       I    between atoms: O3_4  and  C1_7 
+REMARK       I    between atoms: O3_4  and  C7_27 
+REMARK       I    between atoms: C4_8  and  O9_29 
+REMARK       I    between atoms: O30_9  and  S20_31 
+REMARK       I    between atoms: C8_10  and  N14_18 
+REMARK       I    between atoms: C27_12  and  C19_15 
+REMARK       I    between atoms: C27_12  and  O34_30 
+REMARK       I    between atoms: S26_14  and  O18_23 
+REMARK       I    between atoms: S26_14  and  O32_35 
+REMARK       I    between atoms: O15_16  and  C10_32 
+REMARK       I    between atoms: S16_17  and  O11_28 
+REMARK       I    between atoms: S16_17  and  O23_20 
+REMARK       I    between atoms: N14_18  and  S20_31 
+REMARK       I    between atoms: O25_21  and  C17_34 
+REMARK       I    between atoms: O29_25  and  S20_31 
+REMARK       I    between atoms: C6_26  and  C2_33 
+REMARK       I    between atoms: C6_26  and  O11_28 
+ROOT
+ATOM      1  C12 H1S d 173     -16.061 -18.508 -25.576  0.00  0.00     0.228 C 
+ATOM      2  O28 H1S d 173     -16.490 -20.231 -19.129  0.00  0.00    -0.296 OA
+ATOM      3  O35 H1S d 173     -11.664 -21.193 -25.651  0.00  0.00    -0.648 OA
+ATOM      4  O3  H1S d 173     -16.815 -19.017 -23.317  0.00  0.00    -0.348 OA
+ATOM      5  O21 H1S d 173     -22.417 -17.695 -26.057  0.00  0.00    -0.579 OA
+ATOM      6  O33 H1S d 173     -18.141 -19.884 -28.117  0.00  0.00    -0.579 OA
+ATOM      7  C1  H1S d 173     -17.775 -20.025 -22.980  0.00  0.00     0.186 C 
+ATOM      8  C4  H1S d 173     -17.457 -20.627 -21.615  0.00  0.00     0.173 C 
+ATOM      9  O30 H1S d 173     -16.082 -22.580 -19.502  0.00  0.00    -0.296 OA
+ATOM     10  C8  H1S d 173     -18.596 -21.499 -21.063  0.00  0.00     0.157 C 
+ATOM     11  O13 H1S d 173     -14.615 -19.684 -23.961  0.00  0.00    -0.343 OA
+ATOM     12  C27 H1S d 173     -12.530 -21.027 -24.761  0.00  0.00     0.170 C 
+ATOM     13  O22 H1S d 173     -22.056 -15.937 -24.391  0.00  0.00    -0.579 OA
+ATOM     14  S26 H1S d 173     -16.715 -19.827 -27.722  0.00  0.00     0.241 S 
+ATOM     15  C19 H1S d 173     -13.694 -20.136 -25.014  0.00  0.00     0.224 C 
+ATOM     16  O15 H1S d 173     -20.473 -20.011 -20.509  0.00  0.00    -0.369 OA
+ATOM     17  S16 H1S d 173     -21.406 -17.049 -25.146  0.00  0.00     0.240 S 
+ATOM     18  N14 H1S d 173     -18.466 -21.714 -19.628  0.00  0.00    -0.210 NA
+ATOM     19  C24 H1S d 173     -13.951 -19.661 -26.234  0.00  0.00     0.077 C 
+ATOM     20  O23 H1S d 173     -20.309 -16.415 -25.942  0.00  0.00    -0.274 OA
+ATOM     21  O25 H1S d 173     -14.010 -17.274 -25.738  0.00  0.00    -0.393 OA
+ATOM     22  O31 H1S d 173     -16.071 -18.764 -28.544  0.00  0.00    -0.579 OA
+ATOM     23  O18 H1S d 173     -17.077 -18.943 -26.496  0.00  0.00    -0.251 OA
+ATOM     24  O5  H1S d 173     -20.068 -20.603 -22.790  0.00  0.00    -0.350 OA
+ATOM     25  O29 H1S d 173     -17.175 -21.720 -17.414  0.00  0.00    -0.296 OA
+ATOM     26  C6  H1S d 173     -19.566 -18.817 -24.360  0.00  0.00     0.226 C 
+ATOM     27  C7  H1S d 173     -15.974 -19.475 -24.394  0.00  0.00     0.294 C 
+ATOM     28  O11 H1S d 173     -20.804 -18.085 -24.121  0.00  0.00    -0.261 OA
+ATOM     29  O9  H1S d 173     -16.308 -21.482 -21.793  0.00  0.00    -0.391 OA
+ATOM     30  O34 H1S d 173     -12.393 -21.617 -23.659  0.00  0.00    -0.774 OA
+ATOM     31  S20 H1S d 173     -17.031 -21.591 -18.892  0.00  0.00     0.156 S 
+ATOM     32  C10 H1S d 173     -20.019 -21.041 -21.418  0.00  0.00     0.278 C 
+ATOM     33  C2  H1S d 173     -19.199 -19.492 -23.030  0.00  0.00     0.181 C 
+ATOM     34  C17 H1S d 173     -14.739 -18.366 -26.317  0.00  0.00     0.156 C 
+ATOM     35  O32 H1S d 173     -15.994 -21.094 -28.019  0.00  0.00    -0.274 OA
+ATOM     36  H   H1S d 173     -16.375 -20.090 -20.082  0.00  0.00     0.231 HD
+ATOM     37  H   H1S d 173     -16.039 -22.438 -20.460  0.00  0.00     0.231 HD
+ATOM     38  H   H1S d 173     -20.426 -20.340 -19.598  0.00  0.00     0.212 HD
+ATOM     39  H   H1S d 173     -18.806 -22.658 -19.445  0.00  0.00     0.140 HD
+ATOM     40  H   H1S d 173     -20.690 -15.780 -26.569  0.00  0.00     0.234 HD
+ATOM     41  H   H1S d 173     -14.537 -16.462 -25.805  0.00  0.00     0.210 HD
+ATOM     42  H   H1S d 173     -16.303 -21.643 -16.996  0.00  0.00     0.231 HD
+ATOM     43  H   H1S d 173     -16.522 -22.183 -22.428  0.00  0.00     0.210 HD
+ATOM     44  H   H1S d 173     -13.032 -21.503 -22.984  0.00  0.00     0.167 HD
+ATOM     45  H   H1S d 173     -16.383 -21.816 -27.502  0.00  0.00     0.234 HD
+ENDROOT
+TORSDOF 19
