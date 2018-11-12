@@ -1,0 +1,20 @@
+#!/bin/bash 
+#PBS -l walltime=24:00:00
+#PBS -l ncpus=16
+#PBS -l mem=3GB
+#PBS -l jobfs=10GB
+#PBS -P hu38
+#PBS -q express
+#PBS -l software=VinaCarb
+#PBS -l wd
+
+export VINA_CARB=../../VC_1_0
+
+mkdir logs
+
+for folder in *LIGAND*;
+    do
+        touch logs/log_$folder.txt
+        ../../vina-carb --receptor $folder/*Without* --ligand $folder/*pdb.mol2* --config $folder/*.conf --log logs/log_$folder.txt
+    done
+

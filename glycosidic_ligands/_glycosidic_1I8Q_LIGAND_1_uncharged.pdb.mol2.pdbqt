@@ -1,0 +1,58 @@
+REMARK 7 active torsions
+REMARK    1  A    between atoms: atom2  and  atom_
+REMARK    2  A    between atoms: atom7  and  atom_
+REMARK    3  A    between atoms: atom1  and  atom_
+REMARK    4  A    between atoms: atom3  and  atom_
+REMARK    5  A    between atoms: atom1  and  atom8
+REMARK    6  A    between atoms: atom5  and  atom_
+REMARK    7  A    between atoms: atom4  and  atom_
+ROOT
+ATOM      1  C2  NAG d1002      17.860   0.823  34.932  0.00  0.00     0.171 C 
+ATOM      2  C3  NAG d1002      16.768   1.846  34.487  0.00  0.00     0.183 C 
+ATOM      3  C5  NAG d1002      15.080  -0.045  34.388  0.00  0.00     0.179 C 
+ATOM      4  C1  NAG d1002      17.165  -0.324  35.710  0.00  0.00     0.282 C 
+ATOM      5  C4  NAG d1002      15.736   1.114  33.597  0.00  0.00     0.180 C 
+ATOM      6  O5  NAG d1002      16.128  -0.982  34.882  0.00  0.00    -0.349 OA
+ENDROOT
+BRANCH   1  22
+ATOM     22  N2  NAG d1002      18.920   1.503  35.829  0.00  0.00    -0.349 N 
+ATOM     23  C7  NAG d1002      20.140   0.842  36.299  0.00  0.00     0.214 C 
+ATOM     24  O7  NAG d1002      20.494  -0.345  36.037  0.00  0.00    -0.274 OA
+ATOM     25  C8  NAG d1002      21.078   1.647  37.189  0.00  0.00     0.117 C 
+ATOM     26  H   NAG d1002      18.766   2.437  36.101  0.00  0.00     0.163 HD
+ENDBRANCH   1  22
+BRANCH   2   7
+ATOM      7  O3  NAG d1002      17.332   2.967  33.699  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C1  GC4 d1001      17.481   4.289  34.239  0.00  0.00     0.292 C 
+ATOM      9  C2  GC4 d1001      17.984   5.245  33.146  0.00  0.00     0.202 C 
+ATOM     10  C3  GC4 d1001      18.108   6.643  33.740  0.00  0.00     0.154 C 
+ATOM     11  C4  GC4 d1001      16.742   7.109  34.315  0.00  0.00     0.077 C 
+ATOM     12  C5  GC4 d1001      16.263   6.126  35.418  0.00  0.00     0.224 C 
+ATOM     13  O5  GC4 d1001      16.203   4.749  34.838  0.00  0.00    -0.343 OA
+ATOM     14  O2  GC4 d1001      19.248   4.793  32.604  0.00  0.00    -0.388 OA
+ATOM     15  H   GC4 d1001      19.141   3.903  32.233  0.00  0.00     0.210 HD
+ATOM     16  O3  GC4 d1001      18.566   7.577  32.701  0.00  0.00    -0.393 OA
+ATOM     17  H   GC4 d1001      19.419   7.277  32.349  0.00  0.00     0.210 HD
+ATOM     18  C6  GC4 d1001      14.925   6.495  36.042  0.00  0.00     0.170 C 
+ATOM     19  O6A GC4 d1001      14.731   7.785  36.199  0.00  0.00    -0.648 OA
+BRANCH  18  20
+ATOM     20  O6B GC4 d1001      14.165   5.471  36.364  0.00  0.00    -0.774 OA
+ATOM     21  H   GC4 d1001      14.453   4.598  36.181  0.00  0.00     0.167 HD
+ENDBRANCH  18  20
+ENDBRANCH   7   8
+ENDBRANCH   2   7
+BRANCH   3  31
+ATOM     31  C6  NAG d1002      14.067  -0.835  33.565  0.00  0.00     0.198 C 
+ATOM     32  O6  NAG d1002      13.110  -0.013  32.840  0.00  0.00    -0.398 OA
+ATOM     33  H   NAG d1002      12.503  -0.585  32.344  0.00  0.00     0.209 HD
+ENDBRANCH   3  31
+BRANCH   4  29
+ATOM     29  O1  NAG d1002      18.107  -1.324  36.129  0.00  0.00    -0.369 OA
+ATOM     30  H   NAG d1002      18.796  -0.912  36.674  0.00  0.00     0.212 HD
+ENDBRANCH   4  29
+BRANCH   5  27
+ATOM     27  O4  NAG d1002      14.698   2.040  33.134  0.00  0.00    -0.390 OA
+ATOM     28  H   NAG d1002      15.110   2.765  32.639  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 7
