@@ -12,6 +12,6 @@ export VINA_CARB=../../VC_1_0
 
 for folder in large/*LIGAND*;
     do
-        ../../vina-carb --receptor /$folder/*Without* --ligand /$folder/*pdb.mol2* --config /$folder/*.conf --out /$folder/$folder.txt --log $folder/log_$folder.txt
+        ../../vina-carb --receptor $folder/*Without* --ligand $folder/*uncharged.pdb.pdbqt --config $folder/*.conf --out $folder/$folder_log.txt --log $folder_log.txt
     done
 
