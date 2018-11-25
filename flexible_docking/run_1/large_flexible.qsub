@@ -10,8 +10,6 @@
 
 export VINA_CARB=../../VC_1_0
 
-mkdir large_logs
-
 for folder in large/*LIGAND*;
     do
         touch large_logs/log_$folder.txt

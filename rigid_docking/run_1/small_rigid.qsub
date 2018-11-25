@@ -10,11 +10,9 @@
 
 export VINA_CARB=../../VC_1_0
 
-mkdir small_logs
-
 for folder in small/*LIGAND*;
     do
         touch small_logs/log_$folder.txt
-        ../../vina-carb --receptor small/$folder/*Without* --ligand small/$folder/*pdb.mol2* --config small/$folder/*.conf --log logs/log_$folder.txt
+        ../../vina-carb --receptor small/$folder/*Without* --ligand small/$folder/*pdb.mol2* --config small/$folder/*.conf --out small/$folder/$folder.txt --log small/log_$folder.txt
     done
 
