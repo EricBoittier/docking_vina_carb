@@ -15,6 +15,6 @@ mkdir large_logs
 for folder in large/*LIGAND*;
     do
         touch large_logs/log_$folder.txt
-        ../../vina-carb --receptor large/$folder/*Without* --ligand large/$folder/*pdb.mol2* --config large/$folder/*.conf --log logs/log_$folder.txt
+        ../../vina-carb --receptor large/$folder/*Without* --ligand large/$folder/*pdb.mol2* --config large/$folder/*.conf --out large/$folder/$folder.txt --log large/log_$folder.txt
     done
 
