@@ -14,6 +14,6 @@ for folder in large/*LIGAND*;
     do
         touch $folder_log.txt
         touch $folder_out.txt
-        ../../vina-carb --receptor $folder/*Without* --ligand $folder/*uncharged.pdb.pdbqt --config $folder/*.conf --out folder_out.txt --log $folder_log.txt
+        ../../vina-carb --receptor $folder/*Without* --ligand $folder/*uncharged.pdb.pdbqt --config $folder/*.conf --log $folder_log.txt
     done
 
