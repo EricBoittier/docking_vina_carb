@@ -1,0 +1,164 @@
+REMARK 22 active torsions
+REMARK    1  A    between atoms: atom5  and  atom_
+REMARK    2  A    between atoms: atom7  and  atom_
+REMARK    3  A    between atoms: atom1  and  atom1
+REMARK    4  A    between atoms: atom2  and  atom2
+REMARK    5  A    between atoms: atom2  and  atom5
+REMARK    6  A    between atoms: atom1  and  atom3
+REMARK    7  A    between atoms: atom4  and  atom2
+REMARK    8  A    between atoms: atom2  and  atom_
+REMARK    9  A    between atoms: atom6  and  atom_
+REMARK    10  A    between atoms: atom5  and  atom9
+REMARK    11  A    between atoms: atom6  and  atom3
+REMARK    12  A    between atoms: atom7  and  atom4
+REMARK    13  A    between atoms: atom7  and  atom6
+REMARK    14  A    between atoms: atom6  and  atom4
+REMARK    15  A    between atoms: atom9  and  atom2
+REMARK    16  A    between atoms: atom1  and  atom6
+REMARK    17  A    between atoms: atom3  and  atom8
+REMARK    18  A    between atoms: atom3  and  atom_
+REMARK    19  A    between atoms: atom5  and  atom3
+REMARK    20  A    between atoms: atom4  and  atom_
+REMARK    21  A    between atoms: atom6  and  atom6
+REMARK    22  A    between atoms: atom8  and  atom8
+ROOT
+ATOM      1  O5  IDS d 303     135.944  10.782  77.309  0.00  0.00    -0.340 OA
+ATOM      2  C2  IDS d 303     133.977   9.794  78.402  0.00  0.00     0.231 C 
+ATOM      3  C5  IDS d 303     135.212  11.924  76.843  0.00  0.00     0.253 C 
+ATOM      4  C3  IDS d 303     133.084  10.796  77.619  0.00  0.00     0.185 C 
+ATOM      5  C1  IDS d 303     135.477  10.177  78.509  0.00  0.00     0.294 C 
+ATOM      6  C4  IDS d 303     133.798  11.466  76.410  0.00  0.00     0.195 C 
+ENDROOT
+BRANCH   2  48
+ATOM     48  O2  IDS d 303     133.889   8.522  77.779  0.00  0.00    -0.244 OA
+ATOM     49  S   IDS d 303     133.653   7.121  78.452  0.00  0.00     0.252 S 
+ATOM     50  O3S IDS d 303     133.169   7.375  79.785  0.00  0.00    -0.572 OA
+ATOM     51  O1S IDS d 303     134.920   6.441  78.439  0.00  0.00    -0.572 OA
+ATOM     52  O2S IDS d 303     132.679   6.467  77.613  0.00  0.00    -0.572 OA
+ENDBRANCH   2  48
+BRANCH   3  53
+ATOM     53  C6  IDS d 303     136.022  12.625  75.753  0.00  0.00     0.172 C 
+ATOM     54  O62 IDS d 303     136.983  12.087  75.244  0.00  0.00    -0.648 OA
+BRANCH  53  55
+ATOM     55  O61 IDS d 303     135.726  13.739  75.371  0.00  0.00    -0.774 OA
+ENDBRANCH  53  55
+ENDBRANCH   3  53
+BRANCH   4  57
+ATOM     57  O3  IDS d 303     132.665  11.817  78.508  0.00  0.00    -0.390 OA
+ATOM     58  H   IDS d 303     132.217  11.418  79.270  0.00  0.00     0.210 HD
+ENDBRANCH   4  57
+BRANCH   5   7
+ATOM      7  O4  SGN d 302     135.649  11.010  79.616  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  SGN d 302     136.977  11.185  80.100  0.00  0.00     0.186 C 
+ATOM      9  C3  SGN d 302     136.946  12.645  80.600  0.00  0.00     0.173 C 
+ATOM     10  C2  SGN d 302     138.353  13.058  81.013  0.00  0.00     0.160 C 
+ATOM     11  C1  SGN d 302     138.889  12.115  82.120  0.00  0.00     0.282 C 
+ATOM     12  O5  SGN d 302     138.806  10.746  81.707  0.00  0.00    -0.349 OA
+ATOM     13  C5  SGN d 302     137.490  10.296  81.279  0.00  0.00     0.181 C 
+ATOM     14  O3  SGN d 302     136.501  13.508  79.567  0.00  0.00    -0.391 OA
+ATOM     15  H   SGN d 302     136.486  14.421  79.893  0.00  0.00     0.210 HD
+ATOM     16  N   SGN d 302     138.375  14.447  81.504  0.00  0.00    -0.189 NA
+ATOM     17  H   SGN d 302     137.529  14.891  81.148  0.00  0.00     0.143 HD
+BRANCH  11  22
+ATOM     22  O4  IDS d 301     138.243  12.283  83.353  0.00  0.00    -0.348 OA
+BRANCH  22  23
+ATOM     23  C4  IDS d 301     138.957  11.867  84.528  0.00  0.00     0.195 C 
+ATOM     24  C3  IDS d 301     138.608  12.979  85.567  0.00  0.00     0.185 C 
+ATOM     25  C2  IDS d 301     139.400  12.778  86.874  0.00  0.00     0.231 C 
+ATOM     26  C1  IDS d 301     139.082  11.386  87.498  0.00  0.00     0.291 C 
+ATOM     27  O5  IDS d 301     138.912  10.386  86.487  0.00  0.00    -0.340 OA
+ATOM     28  C5  IDS d 301     139.611  10.627  85.246  0.00  0.00     0.253 C 
+ATOM     29  O3  IDS d 301     138.926  14.250  85.021  0.00  0.00    -0.390 OA
+ATOM     30  H   IDS d 301     139.875  14.290  84.826  0.00  0.00     0.210 HD
+ATOM     36  O1  IDS d 301     140.135  11.050  88.358  0.00  0.00    -0.368 OA
+ATOM     37  H   IDS d 301     140.233  11.739  89.034  0.00  0.00     0.212 HD
+ATOM     38  C6  IDS d 301     139.656   9.346  84.422  0.00  0.00     0.172 C 
+ATOM     39  O61 IDS d 301     140.709   8.924  84.000  0.00  0.00    -0.648 OA
+BRANCH  25  31
+ATOM     31  O2  IDS d 301     139.046  13.800  87.787  0.00  0.00    -0.244 OA
+ATOM     32  S   IDS d 301     139.983  14.878  88.429  0.00  0.00     0.252 S 
+ATOM     33  O1S IDS d 301     141.262  14.261  88.657  0.00  0.00    -0.572 OA
+ATOM     34  O3S IDS d 301     139.318  15.229  89.659  0.00  0.00    -0.572 OA
+ATOM     35  O2S IDS d 301     140.036  15.965  87.486  0.00  0.00    -0.572 OA
+ENDBRANCH  25  31
+BRANCH  38  40
+ATOM     40  O62 IDS d 301     138.656   8.719  84.164  0.00  0.00    -0.774 OA
+ENDBRANCH  38  40
+ENDBRANCH  22  23
+ENDBRANCH  11  22
+BRANCH  13  42
+ATOM     42  C6  SGN d 302     137.592   8.796  80.950  0.00  0.00     0.227 C 
+BRANCH  42  43
+ATOM     43  O6  SGN d 302     138.571   8.546  79.969  0.00  0.00    -0.254 OA
+ATOM     44  S2  SGN d 302     139.312   7.188  79.746  0.00  0.00     0.251 S 
+ATOM     45  O5S SGN d 302     140.032   7.352  78.521  0.00  0.00    -0.572 OA
+ATOM     46  O4S SGN d 302     138.305   6.168  79.650  0.00  0.00    -0.572 OA
+ATOM     47  O6S SGN d 302     140.170   7.031  80.884  0.00  0.00    -0.572 OA
+ENDBRANCH  42  43
+ENDBRANCH  13  42
+BRANCH  16  18
+ATOM     18  S1  SGN d 302     139.606  15.460  81.155  0.00  0.00     0.183 S 
+ATOM     19  O1S SGN d 302     139.247  16.683  81.808  0.00  0.00    -0.582 OA
+ATOM     20  O2S SGN d 302     140.810  14.910  81.697  0.00  0.00    -0.582 OA
+ATOM     21  O3S SGN d 302     139.628  15.573  79.725  0.00  0.00    -0.582 OA
+ENDBRANCH  16  18
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   6  59
+ATOM     59  O4  IDS d 303     133.884  10.411  75.440  0.00  0.00    -0.348 OA
+BRANCH  59  60
+ATOM     60  C1  SGN d 304     133.093  10.517  74.276  0.00  0.00     0.282 C 
+ATOM     61  C2  SGN d 304     132.781   9.121  73.669  0.00  0.00     0.160 C 
+ATOM     62  C3  SGN d 304     134.078   8.488  73.125  0.00  0.00     0.173 C 
+ATOM     63  C4  SGN d 304     134.639   9.423  72.021  0.00  0.00     0.186 C 
+ATOM     64  C5  SGN d 304     134.932  10.808  72.686  0.00  0.00     0.181 C 
+ATOM     65  O5  SGN d 304     133.738  11.348  73.310  0.00  0.00    -0.349 OA
+ATOM     66  N   SGN d 304     132.157   8.294  74.715  0.00  0.00    -0.189 NA
+ATOM     67  H   SGN d 304     132.614   8.538  75.594  0.00  0.00     0.143 HD
+ATOM     72  O3  SGN d 304     133.783   7.219  72.568  0.00  0.00    -0.391 OA
+ATOM     73  H   SGN d 304     134.597   6.819  72.225  0.00  0.00     0.210 HD
+BRANCH  63  74
+ATOM     74  O4  SGN d 304     135.639   8.585  71.418  0.00  0.00    -0.348 OA
+BRANCH  74  75
+ATOM     75  C1  IDS d 305     135.959   8.793  70.065  0.00  0.00     0.294 C 
+ATOM     76  C2  IDS d 305     137.381   8.217  69.826  0.00  0.00     0.228 C 
+ATOM     77  C3  IDS d 305     137.547   7.793  68.352  0.00  0.00     0.156 C 
+ATOM     78  C4  IDS d 305     136.507   6.702  67.968  0.00  0.00     0.077 C 
+ATOM     79  C5  IDS d 305     135.209   6.809  68.836  0.00  0.00     0.224 C 
+ATOM     80  O5  IDS d 305     134.986   8.191  69.196  0.00  0.00    -0.343 OA
+ATOM     86  O3  IDS d 305     138.845   7.267  68.152  0.00  0.00    -0.393 OA
+ATOM     87  H   IDS d 305     138.947   7.001  67.225  0.00  0.00     0.210 HD
+ATOM     88  C6  IDS d 305     133.965   6.255  68.148  0.00  0.00     0.170 C 
+ATOM     89  O62 IDS d 305     133.401   6.865  67.266  0.00  0.00    -0.648 OA
+BRANCH  76  81
+ATOM     81  O2  IDS d 305     138.342   9.215  70.133  0.00  0.00    -0.244 OA
+ATOM     82  S   IDS d 305     139.454   9.178  71.234  0.00  0.00     0.252 S 
+ATOM     83  O3S IDS d 305     140.383   8.169  70.817  0.00  0.00    -0.572 OA
+ATOM     84  O1S IDS d 305     140.021  10.497  71.214  0.00  0.00    -0.572 OA
+ATOM     85  O2S IDS d 305     138.819   8.882  72.483  0.00  0.00    -0.572 OA
+ENDBRANCH  76  81
+BRANCH  88  90
+ATOM     90  O61 IDS d 305     133.509   5.180  68.472  0.00  0.00    -0.774 OA
+ENDBRANCH  88  90
+ENDBRANCH  74  75
+ENDBRANCH  63  74
+BRANCH  64  92
+ATOM     92  C6  SGN d 304     135.460  11.887  71.730  0.00  0.00     0.227 C 
+BRANCH  92  93
+ATOM     93  O6  SGN d 304     134.408  12.304  70.884  0.00  0.00    -0.254 OA
+ATOM     94  S2  SGN d 304     134.524  13.136  69.567  0.00  0.00     0.251 S 
+ATOM     95  O4S SGN d 304     135.581  12.553  68.787  0.00  0.00    -0.572 OA
+ATOM     96  O5S SGN d 304     133.235  13.007  68.945  0.00  0.00    -0.572 OA
+ATOM     97  O6S SGN d 304     134.799  14.483  69.972  0.00  0.00    -0.572 OA
+ENDBRANCH  92  93
+ENDBRANCH  64  92
+BRANCH  66  68
+ATOM     68  S1  SGN d 304     130.537   8.382  74.985  0.00  0.00     0.183 S 
+ATOM     69  O1S SGN d 304     130.421   8.599  76.400  0.00  0.00    -0.582 OA
+ATOM     70  O2S SGN d 304     129.986   9.478  74.229  0.00  0.00    -0.582 OA
+ATOM     71  O3S SGN d 304     130.016   7.108  74.585  0.00  0.00    -0.582 OA
+ENDBRANCH  66  68
+ENDBRANCH  59  60
+ENDBRANCH   6  59
+TORSDOF 22

@@ -1,0 +1,12 @@
+#!/bin/bash 
+#PBS -A UQ-SCI-SCMB
+#PBS -l select=1:ncpus=24:mem=2GB:vmem=2GB,walltime=100:00:00
+
+export VINA_CARB=../../VC_1_0
+
+for folder in small/*LIGAND*;
+    do
+        touch $folder_log.txt
+        touch $folder_out.txt
+        ../../vina-carb --receptor $folder/*Without* --ligand $folder/*uncharged.pdb.pdbqt --chi_coeff 2 --chi_cutoff 0 --config $folder/*.conf --log $folder_log.txt
+    done

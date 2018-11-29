@@ -1,0 +1,229 @@
+REMARK WARNING: 32 MAX_TORS EXCEEDED!!!
+REMARK  38 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5_1  and  C6_44 
+REMARK    2  A    between atoms: C4_4  and  O4_51 
+REMARK    3  A    between atoms: C6_5  and  C5_81 
+REMARK    4  A    between atoms: C6_5  and  O6_22 
+REMARK    5  A    between atoms: C2_6  and  N_55 
+REMARK    6  A    between atoms: O6_8  and  C6_38 
+REMARK       I    between atoms: C7_9  and  N_21 
+REMARK    7  A    between atoms: C2_11  and  O2_76 
+REMARK    8  A    between atoms: O1_12  and  C4_25 
+REMARK    9  A    between atoms: O1_12  and  C1_45 
+REMARK   10  A    between atoms: C3_14  and  O1_23 
+REMARK   11  A    between atoms: C6_15  and  C5_73 
+REMARK   12  A    between atoms: C6_15  and  O6_66 
+REMARK       I    between atoms: C7_16  and  N_55 
+REMARK   13  A    between atoms: C6_17  and  C5_70 
+REMARK   14  A    between atoms: C6_17  and  O6A_71 
+REMARK   15  A    between atoms: O1_19  and  C4_64 
+REMARK   16  A    between atoms: O1_19  and  C1_41 
+REMARK   17  A    between atoms: C3_20  and  O3_27 
+REMARK   18  A    between atoms: N_21  and  C2_84 
+REMARK   19  A    between atoms: O1_23  and  C1_86 
+REMARK   20  A    between atoms: S_26  and  O4_51 
+REMARK   21  A    between atoms: O1_30  and  C1_48 
+REMARK   22  A    between atoms: O1_31  and  C3_56 
+REMARK   23  A    between atoms: O1_31  and  C1_83 
+REMARK   24  A    between atoms: O2_33  and  C2_42 
+REMARK   25  A    between atoms: S_34  and  O4_74 
+REMARK   26  A    between atoms: C2_36  and  N_58 
+REMARK   27  A    between atoms: C4_37  and  O4_85 
+REMARK   28  A    between atoms: C6_38  and  C5_88 
+REMARK   29  A    between atoms: C6_44  and  O6B_68 
+REMARK   30  A    between atoms: O3_47  and  C3_62 
+REMARK   31  A    between atoms: C3_49  and  O3_77 
+REMARK   32  A    between atoms: C1_50  and  O1_54 
+REMARK   33  A    between atoms: C4_53  and  O1_54 
+REMARK       I    between atoms: N_58  and  C7_78 
+REMARK   34  A    between atoms: O2_60  and  C2_75 
+REMARK   35  A    between atoms: C4_63  and  O4_74 
+REMARK   36  A    between atoms: C6_69  and  C5_72 
+REMARK   37  A    between atoms: C6_69  and  O6B_79 
+REMARK   38  A    between atoms: S_80  and  O4_85 
+ROOT
+ATOM      1  C2  ASG d 219      28.437 -17.874  90.810  0.00  0.00     0.171 C 
+ATOM      2  C3  ASG d 219      28.252 -18.793  89.613  0.00  0.00     0.185 C 
+ATOM      3  O5  ASG d 219      27.694 -19.816  92.254  0.00  0.00    -0.349 OA
+ATOM      4  C4  ASG d 219      28.518 -20.236  90.015  0.00  0.00     0.207 C 
+ATOM      5  C1  ASG d 219      27.535 -18.344  92.010  0.00  0.00     0.286 C 
+ATOM      6  C5  ASG d 219      27.440 -20.644  91.056  0.00  0.00     0.181 C 
+ENDROOT
+BRANCH   5   7
+ATOM      7  O1  ASG d 219      27.675 -17.558  93.186  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BDP d 218      26.634 -17.708  94.088  0.00  0.00     0.195 C 
+ATOM      9  C3  BDP d 218      27.220 -18.020  95.461  0.00  0.00     0.183 C 
+ATOM     10  C2  BDP d 218      26.193 -17.703  96.533  0.00  0.00     0.204 C 
+ATOM     11  C1  BDP d 218      25.742 -16.250  96.413  0.00  0.00     0.292 C 
+ATOM     12  O5  BDP d 218      25.181 -16.079  95.126  0.00  0.00    -0.340 OA
+ATOM     13  C5  BDP d 218      26.132 -16.267  94.090  0.00  0.00     0.253 C 
+BRANCH   9  14
+ATOM     14  O3  BDP d 218      27.565 -19.380  95.557  0.00  0.00    -0.390 OA
+ATOM     15  H   BDP d 218      26.771 -19.924  95.435  0.00  0.00     0.210 HD
+ENDBRANCH   9  14
+BRANCH  10  16
+ATOM     16  O2  BDP d 218      26.753 -17.954  97.803  0.00  0.00    -0.388 OA
+ATOM     17  H   BDP d 218      27.032 -18.882  97.856  0.00  0.00     0.210 HD
+ENDBRANCH  10  16
+BRANCH  11  18
+ATOM     18  O1  BDP d 218      24.793 -15.958  97.421  0.00  0.00    -0.348 OA
+BRANCH  18  19
+ATOM     19  C3  ASG d 217      24.560 -14.596  97.589  0.00  0.00     0.185 C 
+ATOM     20  C4  ASG d 217      23.044 -14.589  97.772  0.00  0.00     0.207 C 
+ATOM     21  C5  ASG d 217      22.607 -13.114  98.028  0.00  0.00     0.181 C 
+ATOM     22  O5  ASG d 217      23.207 -12.709  99.318  0.00  0.00    -0.349 OA
+ATOM     23  C1  ASG d 217      24.704 -12.748  99.325  0.00  0.00     0.286 C 
+ATOM     24  C2  ASG d 217      25.230 -14.152  98.883  0.00  0.00     0.171 C 
+BRANCH  20  25
+ATOM     25  O4  ASG d 217      22.622 -15.433  98.830  0.00  0.00    -0.246 OA
+BRANCH  25  26
+ATOM     26  S   ASG d 217      21.684 -16.744  98.503  0.00  0.00     0.252 S 
+ATOM     27  OSB ASG d 217      20.283 -16.366  98.643  0.00  0.00    -0.572 OA
+ATOM     28  OSA ASG d 217      21.959 -17.219  97.147  0.00  0.00    -0.572 OA
+ATOM     29  OSC ASG d 217      22.039 -17.794  99.449  0.00  0.00    -0.572 OA
+ENDBRANCH  25  26
+ENDBRANCH  20  25
+BRANCH  21  30
+ATOM     30  C6  ASG d 217      21.060 -12.845  97.949  0.00  0.00     0.199 C 
+BRANCH  30  31
+ATOM     31  O6  ASG d 217      20.623 -11.581  97.469  0.00  0.00    -0.398 OA
+ATOM     32  H   ASG d 217      19.654 -11.551  97.473  0.00  0.00     0.209 HD
+ENDBRANCH  30  31
+ENDBRANCH  21  30
+BRANCH  23  33
+ATOM     33  O1  ASG d 217      25.299 -12.257 100.515  0.00  0.00    -0.348 OA
+BRANCH  33  34
+ATOM     34  C4  BDP d 216      25.195 -10.883 100.638  0.00  0.00     0.195 C 
+ATOM     35  C3  BDP d 216      24.386 -10.585 101.899  0.00  0.00     0.183 C 
+ATOM     36  C2  BDP d 216      24.440  -9.098 102.242  0.00  0.00     0.204 C 
+ATOM     37  C1  BDP d 216      25.885  -8.618 102.267  0.00  0.00     0.289 C 
+ATOM     38  O5  BDP d 216      26.455  -8.842 100.995  0.00  0.00    -0.340 OA
+ATOM     39  C5  BDP d 216      26.573 -10.220 100.695  0.00  0.00     0.253 C 
+BRANCH  35  40
+ATOM     40  O3  BDP d 216      23.044 -10.982 101.708  0.00  0.00    -0.390 OA
+ATOM     41  H   BDP d 216      22.661 -10.482 100.970  0.00  0.00     0.210 HD
+ENDBRANCH  35  40
+BRANCH  36  42
+ATOM     42  O2  BDP d 216      23.851  -8.872 103.502  0.00  0.00    -0.388 OA
+ATOM     43  H   BDP d 216      24.340  -9.364 104.180  0.00  0.00     0.210 HD
+ENDBRANCH  36  42
+BRANCH  37  44
+ATOM     44  O1  BDP d 216      25.927  -7.244 102.597  0.00  0.00    -0.368 OA
+ATOM     45  H   BDP d 216      25.532  -7.109 103.473  0.00  0.00     0.212 HD
+ENDBRANCH  37  44
+BRANCH  39  46
+ATOM     46  C6  BDP d 216      27.301 -10.377  99.363  0.00  0.00     0.172 C 
+ATOM     47  O6B BDP d 216      26.698 -10.050  98.318  0.00  0.00    -0.648 OA
+BRANCH  46  48
+ATOM     48  O6A BDP d 216      28.468 -10.822  99.381  0.00  0.00    -0.774 OA
+ATOM     49  H   BDP d 216      28.870 -11.051 100.196  0.00  0.00     0.167 HD
+ENDBRANCH  46  48
+ENDBRANCH  39  46
+ENDBRANCH  33  34
+ENDBRANCH  23  33
+BRANCH  24  50
+ATOM     50  N   ASG d 217      26.697 -14.266  98.928  0.00  0.00    -0.349 N 
+ATOM     51  C7  ASG d 217      27.352 -15.000 100.006  0.00  0.00     0.214 C 
+ATOM     52  O7  ASG d 217      26.707 -15.617 100.780  0.00  0.00    -0.274 OA
+ATOM     53  C8  ASG d 217      28.884 -15.152 100.003  0.00  0.00     0.117 C 
+ATOM     54  H   ASG d 217      27.241 -13.843  98.225  0.00  0.00     0.163 HD
+ENDBRANCH  24  50
+ENDBRANCH  18  19
+ENDBRANCH  11  18
+BRANCH  13  55
+ATOM     55  C6  BDP d 218      25.539 -15.914  92.727  0.00  0.00     0.172 C 
+ATOM     56  O6A BDP d 218      26.050 -14.967  92.088  0.00  0.00    -0.648 OA
+BRANCH  55  57
+ATOM     57  O6B BDP d 218      24.583 -16.600  92.302  0.00  0.00    -0.774 OA
+ATOM     58  H   BDP d 218      24.239 -17.299  92.823  0.00  0.00     0.167 HD
+ENDBRANCH  55  57
+ENDBRANCH  13  55
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  59
+ATOM     59  N   ASG d 219      28.351 -16.434  90.503  0.00  0.00    -0.349 N 
+ATOM     60  C7  ASG d 219      29.306 -15.481  91.063  0.00  0.00     0.214 C 
+ATOM     61  C8  ASG d 219      29.113 -13.964  90.862  0.00  0.00     0.117 C 
+ATOM     62  O7  ASG d 219      30.220 -15.879  91.694  0.00  0.00    -0.274 OA
+ATOM     63  H   ASG d 219      27.636 -16.109  89.909  0.00  0.00     0.163 HD
+ENDBRANCH   1  59
+BRANCH   2  64
+ATOM     64  O1  BDP d 220      29.192 -18.468  88.642  0.00  0.00    -0.348 OA
+BRANCH  64  65
+ATOM     65  C1  BDP d 220      28.673 -17.662  87.594  0.00  0.00     0.292 C 
+ATOM     66  O5  BDP d 220      28.143 -18.468  86.564  0.00  0.00    -0.340 OA
+ATOM     67  C5  BDP d 220      27.548 -17.682  85.551  0.00  0.00     0.253 C 
+ATOM     68  C4  BDP d 220      28.635 -16.948  84.772  0.00  0.00     0.195 C 
+ATOM     69  C3  BDP d 220      29.402 -16.050  85.744  0.00  0.00     0.183 C 
+ATOM     70  C2  BDP d 220      29.801 -16.814  87.013  0.00  0.00     0.204 C 
+BRANCH  67  71
+ATOM     71  C6  BDP d 220      26.688 -18.552  84.638  0.00  0.00     0.172 C 
+ATOM     72  O6A BDP d 220      25.480 -18.238  84.505  0.00  0.00    -0.648 OA
+BRANCH  71  73
+ATOM     73  O6B BDP d 220      27.229 -19.530  84.068  0.00  0.00    -0.774 OA
+ATOM     74  H   BDP d 220      28.137 -19.711  84.210  0.00  0.00     0.167 HD
+ENDBRANCH  71  73
+ENDBRANCH  67  71
+BRANCH  68  75
+ATOM     75  O1  ASG d 221      27.899 -16.146  83.912  0.00  0.00    -0.348 OA
+BRANCH  75  76
+ATOM     76  C1  ASG d 221      28.358 -16.184  82.564  0.00  0.00     0.283 C 
+ATOM     77  O5  ASG d 221      29.302 -15.067  82.220  0.00  0.00    -0.349 OA
+ATOM     78  C5  ASG d 221      29.678 -14.964  80.793  0.00  0.00     0.178 C 
+ATOM     79  C4  ASG d 221      28.360 -14.783  79.993  0.00  0.00     0.178 C 
+ATOM     80  C3  ASG d 221      27.740 -16.154  80.097  0.00  0.00     0.066 C 
+ATOM     81  C2  ASG d 221      27.215 -16.346  81.504  0.00  0.00     0.142 C 
+BRANCH  78  82
+ATOM     82  C6  ASG d 221      30.849 -13.975  80.441  0.00  0.00     0.198 C 
+BRANCH  82  83
+ATOM     83  O6  ASG d 221      31.960 -13.906  81.323  0.00  0.00    -0.398 OA
+ATOM     84  H   ASG d 221      31.670 -13.560  82.181  0.00  0.00     0.209 HD
+ENDBRANCH  82  83
+ENDBRANCH  78  82
+BRANCH  79  85
+ATOM     85  O4  ASG d 221      27.490 -13.778  80.489  0.00  0.00    -0.249 OA
+BRANCH  85  86
+ATOM     86  S   ASG d 221      27.979 -12.200  80.579  0.00  0.00     0.252 S 
+ATOM     87  OSB ASG d 221      26.810 -11.327  80.646  0.00  0.00    -0.572 OA
+ATOM     88  OSA ASG d 221      28.776 -12.002  81.788  0.00  0.00    -0.572 OA
+ATOM     89  OSC ASG d 221      28.779 -11.860  79.402  0.00  0.00    -0.572 OA
+ENDBRANCH  85  86
+ENDBRANCH  79  85
+BRANCH  81  90
+ATOM     90  N   ASG d 221      26.401 -17.565  81.657  0.00  0.00    -0.352 N 
+ATOM     91  C7  ASG d 221      25.591 -18.088  80.557  0.00  0.00     0.214 C 
+ATOM     92  C8  ASG d 221      24.957 -19.483  80.693  0.00  0.00     0.117 C 
+ATOM     93  O7  ASG d 221      25.273 -17.392  79.655  0.00  0.00    -0.274 OA
+ATOM     94  H   ASG d 221      26.402 -18.039  82.520  0.00  0.00     0.163 HD
+ENDBRANCH  81  90
+ENDBRANCH  75  76
+ENDBRANCH  68  75
+BRANCH  69  95
+ATOM     95  O3  BDP d 220      30.564 -15.551  85.105  0.00  0.00    -0.390 OA
+ATOM     96  H   BDP d 220      30.310 -15.068  84.303  0.00  0.00     0.210 HD
+ENDBRANCH  69  95
+BRANCH  70  97
+ATOM     97  O2  BDP d 220      30.251 -15.913  88.001  0.00  0.00    -0.388 OA
+ATOM     98  H   BDP d 220      30.500 -16.406  88.798  0.00  0.00     0.210 HD
+ENDBRANCH  70  97
+ENDBRANCH  64  65
+ENDBRANCH   2  64
+BRANCH   6  99
+ATOM     99  C6  ASG d 219      27.410 -22.181  91.358  0.00  0.00     0.199 C 
+BRANCH  99 100
+ATOM    100  O6  ASG d 219      26.599 -22.652  92.425  0.00  0.00    -0.398 OA
+ATOM    101  H   ASG d 219      26.939 -22.307  93.266  0.00  0.00     0.209 HD
+ENDBRANCH  99 100
+ENDBRANCH   6  99
+BRANCH   4 102
+ATOM    102  O4  ASG d 219      29.820 -20.487  90.517  0.00  0.00    -0.246 OA
+BRANCH 102 103
+ATOM    103  S   ASG d 219      30.715 -21.744  89.911  0.00  0.00     0.252 S 
+ATOM    104  OSB ASG d 219      29.959 -22.995  89.923  0.00  0.00    -0.572 OA
+ATOM    105  OSA ASG d 219      31.097 -21.359  88.550  0.00  0.00    -0.572 OA
+ATOM    106  OSC ASG d 219      31.888 -21.955  90.757  0.00  0.00    -0.572 OA
+ENDBRANCH 102 103
+ENDBRANCH   4 102
+TORSDOF 38

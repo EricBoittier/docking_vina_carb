@@ -1,0 +1,5 @@
+REMARK 0 active torsions
+ROOT
+ATOM      1  H   NT1 d 601      27.475  -6.593  65.277  0.00  0.00     0.000 HD
+ENDROOT
+TORSDOF 0

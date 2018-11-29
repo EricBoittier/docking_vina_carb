@@ -1,0 +1,78 @@
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_2  and  O3_12 
+REMARK    2  A    between atoms: C4_3  and  O4_14 
+REMARK    3  A    between atoms: C1_4  and  O1_24 
+REMARK    4  A    between atoms: O3_5  and  C3_17 
+REMARK    5  A    between atoms: O3_5  and  C1_19 
+REMARK    6  A    between atoms: O2_7  and  C2_16 
+REMARK    7  A    between atoms: C5_8  and  C6_25 
+REMARK    8  A    between atoms: C5_9  and  C6_27 
+REMARK    9  A    between atoms: O4_14  and  S_26 
+REMARK   10  A    between atoms: C2_18  and  N_20 
+REMARK       I    between atoms: N_20  and  C7_21 
+REMARK   11  A    between atoms: O6B_23  and  C6_27 
+REMARK   12  A    between atoms: C6_25  and  O6_30 
+ROOT
+ATOM      1  C4  ASG d 514      27.466  23.348   0.962  0.00  0.00     0.207 C 
+ATOM      2  C1  ASG d 514      26.444  20.817   1.876  0.00  0.00     0.282 C 
+ATOM      3  C5  ASG d 514      28.015  22.587   2.178  0.00  0.00     0.181 C 
+ATOM      4  O5  ASG d 514      26.955  21.812   2.777  0.00  0.00    -0.349 OA
+ATOM      5  C3  ASG d 514      26.827  22.370  -0.040  0.00  0.00     0.185 C 
+ATOM      6  C2  ASG d 514      25.800  21.469   0.650  0.00  0.00     0.171 C 
+ENDROOT
+BRANCH   5   7
+ATOM      7  O3  ASG d 514      26.191  23.109  -1.096  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C1  GC4 d 516      26.636  22.832  -2.431  0.00  0.00     0.298 C 
+ATOM      9  C2  GC4 d 516      25.773  23.331  -3.603  0.00  0.00     0.206 C 
+ATOM     10  C3  GC4 d 516      25.724  24.877  -3.621  0.00  0.00     0.177 C 
+ATOM     11  C4  GC4 d 516      27.089  25.531  -3.274  0.00  0.00     0.051 C 
+ATOM     12  C5  GC4 d 516      28.242  24.668  -2.751  0.00  0.00     0.144 C 
+ATOM     13  O5  GC4 d 516      27.985  23.254  -2.629  0.00  0.00    -0.311 OA
+BRANCH   9  14
+ATOM     14  O2  GC4 d 516      26.297  22.861  -4.838  0.00  0.00    -0.388 OA
+ATOM     15  H   GC4 d 516      25.744  23.183  -5.567  0.00  0.00     0.210 HD
+ENDBRANCH   9  14
+BRANCH  10  16
+ATOM     16  O3  GC4 d 516      24.953  25.336  -2.509  0.00  0.00    -0.389 OA
+ATOM     17  H   GC4 d 516      25.375  25.051  -1.683  0.00  0.00     0.210 HD
+ENDBRANCH  10  16
+BRANCH  12  18
+ATOM     18  C6  GC4 d 516      29.548  25.317  -2.314  0.00  0.00     0.200 C 
+ATOM     19  O6A GC4 d 516      29.695  26.552  -2.462  0.00  0.00    -0.645 OA
+BRANCH  18  20
+ATOM     20  O6B GC4 d 516      30.400  24.599  -1.751  0.00  0.00    -0.771 OA
+ATOM     21  H   GC4 d 516      30.251  23.678  -1.661  0.00  0.00     0.167 HD
+ENDBRANCH  18  20
+ENDBRANCH  12  18
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  22
+ATOM     22  O4  ASG d 514      26.494  24.310   1.377  0.00  0.00    -0.246 OA
+BRANCH  22  23
+ATOM     23  S   ASG d 514      26.473  25.745   1.122  0.00  0.00     0.252 S 
+ATOM     24  OSC ASG d 514      27.700  26.171   0.511  0.00  0.00    -0.572 OA
+ATOM     25  OSB ASG d 514      26.333  26.405   2.378  0.00  0.00    -0.572 OA
+ATOM     26  OSA ASG d 514      25.422  26.033   0.193  0.00  0.00    -0.572 OA
+ENDBRANCH  22  23
+ENDBRANCH   1  22
+BRANCH   6  27
+ATOM     27  N   ASG d 514      25.333  20.438  -0.269  0.00  0.00    -0.349 N 
+ATOM     28  C7  ASG d 514      24.140  20.524  -0.869  0.00  0.00     0.214 C 
+ATOM     29  O7  ASG d 514      23.346  21.468  -0.685  0.00  0.00    -0.274 OA
+ATOM     30  C8  ASG d 514      23.747  19.445  -1.815  0.00  0.00     0.117 C 
+ATOM     31  H   ASG d 514      25.909  19.661  -0.452  0.00  0.00     0.163 HD
+ENDBRANCH   6  27
+BRANCH   3  32
+ATOM     32  C6  ASG d 514      28.554  23.499   3.262  0.00  0.00     0.199 C 
+BRANCH  32  33
+ATOM     33  O6  ASG d 514      29.754  24.141   2.856  0.00  0.00    -0.398 OA
+ATOM     34  H   ASG d 514      30.432  23.472   2.672  0.00  0.00     0.209 HD
+ENDBRANCH  32  33
+ENDBRANCH   3  32
+BRANCH   2  35
+ATOM     35  O1  ASG d 514      25.495  20.067   2.551  0.00  0.00    -0.369 OA
+ATOM     36  H   ASG d 514      24.776  20.646   2.847  0.00  0.00     0.212 HD
+ENDBRANCH   2  35
+TORSDOF 12

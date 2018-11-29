@@ -1,0 +1,58 @@
+REMARK 7 active torsions
+REMARK    1  A    between atoms: atom6  and  atom_
+REMARK    2  A    between atoms: atom7  and  atom_
+REMARK    3  A    between atoms: atom3  and  atom_
+REMARK    4  A    between atoms: atom5  and  atom_
+REMARK    5  A    between atoms: atom1  and  atom8
+REMARK    6  A    between atoms: atom2  and  atom_
+REMARK    7  A    between atoms: atom1  and  atom_
+ROOT
+ATOM      1  C1  NGA d 901       9.808  40.836  30.403  0.00  0.00     0.282 C 
+ATOM      2  C4  NGA d 901       8.246  43.362  30.202  0.00  0.00     0.180 C 
+ATOM      3  C2  NGA d 901       8.386  40.920  30.982  0.00  0.00     0.171 C 
+ATOM      4  O5  NGA d 901      10.440  42.199  30.432  0.00  0.00    -0.349 OA
+ATOM      5  C5  NGA d 901       9.657  43.239  29.634  0.00  0.00     0.179 C 
+ATOM      6  C3  NGA d 901       7.575  41.943  30.165  0.00  0.00     0.183 C 
+ENDROOT
+BRANCH   1  32
+ATOM     32  O1  NGA d 901      10.577  39.910  31.153  0.00  0.00    -0.369 OA
+ATOM     33  H   NGA d 901      10.625  40.203  32.077  0.00  0.00     0.212 HD
+ENDBRANCH   1  32
+BRANCH   2  22
+ATOM     22  O4  NGA d 901       8.139  43.813  31.508  0.00  0.00    -0.390 OA
+ATOM     23  H   NGA d 901       7.203  43.851  31.761  0.00  0.00     0.210 HD
+ENDBRANCH   2  22
+BRANCH   3  24
+ATOM     24  N2  NGA d 901       7.645  39.587  30.941  0.00  0.00    -0.349 N 
+ATOM     25  C7  NGA d 901       7.089  39.100  32.167  0.00  0.00     0.214 C 
+ATOM     26  O7  NGA d 901       7.185  39.694  33.278  0.00  0.00    -0.274 OA
+ATOM     27  C8  NGA d 901       6.348  37.787  31.990  0.00  0.00     0.117 C 
+ATOM     28  H   NGA d 901       7.553  39.080  30.102  0.00  0.00     0.163 HD
+ENDBRANCH   3  24
+BRANCH   5  29
+ATOM     29  C6  NGA d 901      10.362  44.592  29.682  0.00  0.00     0.198 C 
+ATOM     30  O6  NGA d 901      11.780  44.505  29.345  0.00  0.00    -0.398 OA
+ATOM     31  H   NGA d 901      12.178  45.388  29.391  0.00  0.00     0.209 HD
+ENDBRANCH   5  29
+BRANCH   6   7
+ATOM      7  O3  NGA d 901       6.246  41.952  30.721  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C1  GCD d 900       5.166  41.469  29.961  0.00  0.00     0.298 C 
+ATOM      9  C2  GCD d 900       3.899  41.512  30.743  0.00  0.00     0.206 C 
+ATOM     10  C3  GCD d 900       2.763  40.988  29.780  0.00  0.00     0.177 C 
+ATOM     11  C4  GCD d 900       2.791  41.395  28.292  0.00  0.00     0.051 C 
+ATOM     12  C5  GCD d 900       3.853  42.120  27.839  0.00  0.00     0.144 C 
+ATOM     13  O5  GCD d 900       4.976  42.455  28.807  0.00  0.00    -0.311 OA
+ATOM     14  O2  GCD d 900       4.008  40.587  31.880  0.00  0.00    -0.388 OA
+ATOM     15  H   GCD d 900       4.703  40.895  32.482  0.00  0.00     0.210 HD
+ATOM     16  O3  GCD d 900       1.564  41.161  30.531  0.00  0.00    -0.389 OA
+ATOM     17  H   GCD d 900       0.807  40.859  30.005  0.00  0.00     0.210 HD
+ATOM     18  C6  GCD d 900       4.023  42.597  26.421  0.00  0.00     0.200 C 
+ATOM     19  O6B GCD d 900       5.004  43.412  26.313  0.00  0.00    -0.645 OA
+BRANCH  18  20
+ATOM     20  O6A GCD d 900       3.200  42.143  25.543  0.00  0.00    -0.771 OA
+ATOM     21  H   GCD d 900       2.528  41.542  25.798  0.00  0.00     0.167 HD
+ENDBRANCH  18  20
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+TORSDOF 7

@@ -1,0 +1,153 @@
+REMARK  25 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S_1  and  O4_9 
+REMARK    2  A    between atoms: C4_3  and  O4_8 
+REMARK    3  A    between atoms: C4_4  and  O4_11 
+REMARK    4  A    between atoms: C1_5  and  O4_11 
+REMARK    5  A    between atoms: C5_6  and  C6_17 
+REMARK    6  A    between atoms: C2_7  and  N_53 
+REMARK    7  A    between atoms: O4_8  and  S_55 
+REMARK    8  A    between atoms: O4_9  and  C4_39 
+REMARK    9  A    between atoms: C5_13  and  C6_20 
+REMARK   10  A    between atoms: C1_14  and  O3_42 
+REMARK       I    between atoms: C7_16  and  N_43 
+REMARK   11  A    between atoms: C6_17  and  O6_27 
+REMARK   12  A    between atoms: C6_18  and  C5_48 
+REMARK   13  A    between atoms: C6_18  and  O6B_28 
+REMARK   14  A    between atoms: C3_19  and  O3_42 
+REMARK   15  A    between atoms: C6_20  and  O6_22 
+REMARK   16  A    between atoms: C5_23  and  C6_33 
+REMARK   17  A    between atoms: C3_26  and  O3_37 
+REMARK   18  A    between atoms: O2_29  and  C2_32 
+REMARK   19  A    between atoms: O1_31  and  C1_50 
+REMARK   20  A    between atoms: C6_33  and  O6B_51 
+REMARK   21  A    between atoms: C3_36  and  O3_57 
+REMARK   22  A    between atoms: C2_38  and  N_43 
+REMARK   23  A    between atoms: C2_40  and  O2_58 
+REMARK   24  A    between atoms: C3_41  and  O3_45 
+REMARK   25  A    between atoms: O3_45  and  C1_56 
+REMARK       I    between atoms: N_53  and  C7_54 
+ROOT
+ATOM      1  C4  BDP d 609      27.949  25.344  -4.384  0.00  0.00     0.195 C 
+ATOM      2  C3  BDP d 609      26.930  24.303  -4.806  0.00  0.00     0.183 C 
+ATOM      3  C2  BDP d 609      26.003  23.979  -3.643  0.00  0.00     0.204 C 
+ATOM      4  C5  BDP d 609      28.705  24.882  -3.144  0.00  0.00     0.253 C 
+ATOM      5  O5  BDP d 609      27.769  24.637  -2.078  0.00  0.00    -0.340 OA
+ATOM      6  C1  BDP d 609      26.822  23.598  -2.402  0.00  0.00     0.292 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O4  BDP d 609      28.861  25.542  -5.466  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C1  ASG d 610      29.103  26.854  -5.822  0.00  0.00     0.286 C 
+ATOM      9  O5  ASG d 610      27.907  27.388  -6.421  0.00  0.00    -0.349 OA
+ATOM     10  C5  ASG d 610      28.068  28.753  -6.855  0.00  0.00     0.181 C 
+ATOM     11  C4  ASG d 610      29.137  28.807  -7.951  0.00  0.00     0.207 C 
+ATOM     12  C3  ASG d 610      30.455  28.307  -7.330  0.00  0.00     0.185 C 
+ATOM     13  C2  ASG d 610      30.269  26.891  -6.804  0.00  0.00     0.171 C 
+BRANCH  10  14
+ATOM     14  C6  ASG d 610      26.704  29.253  -7.291  0.00  0.00     0.199 C 
+BRANCH  14  15
+ATOM     15  O6  ASG d 610      25.825  29.389  -6.182  0.00  0.00    -0.398 OA
+ATOM     16  H   ASG d 610      25.703  28.525  -5.758  0.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH  10  14
+BRANCH  11  17
+ATOM     17  O4  ASG d 610      28.744  27.962  -9.055  0.00  0.00    -0.246 OA
+BRANCH  17  18
+ATOM     18  S   ASG d 610      28.674  28.631 -10.515  0.00  0.00     0.252 S 
+ATOM     19  OSC ASG d 610      28.480  27.583 -11.536  0.00  0.00    -0.572 OA
+ATOM     20  OSA ASG d 610      27.507  29.527 -10.520  0.00  0.00    -0.572 OA
+ATOM     21  OSB ASG d 610      29.898  29.410 -10.792  0.00  0.00    -0.572 OA
+ENDBRANCH  17  18
+ENDBRANCH  11  17
+BRANCH  12  22
+ATOM     22  O3  ASG d 610      31.538  28.340  -8.281  0.00  0.00    -0.348 OA
+BRANCH  22  23
+ATOM     23  C1  GCD d 611      32.466  29.337  -8.048  0.00  0.00     0.298 C 
+ATOM     24  C2  GCD d 611      33.771  29.011  -8.701  0.00  0.00     0.206 C 
+ATOM     25  C3  GCD d 611      34.682  30.268  -8.428  0.00  0.00     0.177 C 
+ATOM     26  C4  GCD d 611      34.052  31.710  -8.471  0.00  0.00     0.051 C 
+ATOM     27  C5  GCD d 611      32.712  31.796  -8.672  0.00  0.00     0.144 C 
+ATOM     28  O5  GCD d 611      31.950  30.538  -8.810  0.00  0.00    -0.311 OA
+BRANCH  24  29
+ATOM     29  O2  GCD d 611      34.378  27.851  -8.059  0.00  0.00    -0.388 OA
+ATOM     30  H   GCD d 611      33.828  27.068  -8.219  0.00  0.00     0.210 HD
+ENDBRANCH  24  29
+BRANCH  25  31
+ATOM     31  O3  GCD d 611      35.882  29.977  -9.159  0.00  0.00    -0.389 OA
+ATOM     32  H   GCD d 611      35.670  29.869 -10.099  0.00  0.00     0.210 HD
+ENDBRANCH  25  31
+BRANCH  27  33
+ATOM     33  C6  GCD d 611      31.864  33.040  -8.755  0.00  0.00     0.200 C 
+ATOM     34  O6A GCD d 611      31.498  33.292  -9.968  0.00  0.00    -0.645 OA
+BRANCH  33  35
+ATOM     35  O6B GCD d 611      31.561  33.626  -7.642  0.00  0.00    -0.771 OA
+ATOM     36  H   GCD d 611      31.919  33.312  -6.835  0.00  0.00     0.167 HD
+ENDBRANCH  33  35
+ENDBRANCH  27  33
+ENDBRANCH  22  23
+ENDBRANCH  12  22
+BRANCH  13  37
+ATOM     37  N   ASG d 610      31.476  26.449  -6.133  0.00  0.00    -0.349 N 
+ATOM     38  C7  ASG d 610      32.125  25.374  -6.570  0.00  0.00     0.214 C 
+ATOM     39  C8  ASG d 610      33.301  24.889  -5.729  0.00  0.00     0.117 C 
+ATOM     40  O7  ASG d 610      31.819  24.776  -7.605  0.00  0.00    -0.274 OA
+ATOM     41  H   ASG d 610      31.815  26.945  -5.353  0.00  0.00     0.163 HD
+ENDBRANCH  13  37
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  42
+ATOM     42  O3  BDP d 609      26.174  24.823  -5.892  0.00  0.00    -0.390 OA
+ATOM     43  H   BDP d 609      25.724  25.636  -5.613  0.00  0.00     0.210 HD
+ENDBRANCH   2  42
+BRANCH   4  44
+ATOM     44  C6  BDP d 609      29.697  25.915  -2.641  0.00  0.00     0.172 C 
+ATOM     45  O6A BDP d 609      30.902  25.582  -2.639  0.00  0.00    -0.648 OA
+BRANCH  44  46
+ATOM     46  O6B BDP d 609      29.258  27.030  -2.291  0.00  0.00    -0.774 OA
+ATOM     47  H   BDP d 609      28.337  27.202  -2.322  0.00  0.00     0.167 HD
+ENDBRANCH  44  46
+ENDBRANCH   4  44
+BRANCH   3  48
+ATOM     48  O2  BDP d 609      25.161  22.892  -3.999  0.00  0.00    -0.388 OA
+ATOM     49  H   BDP d 609      25.705  22.114  -4.199  0.00  0.00     0.210 HD
+ENDBRANCH   3  48
+BRANCH   6  50
+ATOM     50  O3  ASG d 608      25.969  23.433  -1.327  0.00  0.00    -0.348 OA
+BRANCH  50  51
+ATOM     51  C3  ASG d 608      26.442  22.592  -0.258  0.00  0.00     0.185 C 
+ATOM     52  C2  ASG d 608      25.303  21.735   0.281  0.00  0.00     0.171 C 
+ATOM     53  C1  ASG d 608      25.795  20.903   1.482  0.00  0.00     0.282 C 
+ATOM     54  O5  ASG d 608      26.401  21.741   2.486  0.00  0.00    -0.349 OA
+ATOM     55  C5  ASG d 608      27.505  22.532   1.988  0.00  0.00     0.181 C 
+ATOM     56  C4  ASG d 608      27.008  23.439   0.861  0.00  0.00     0.207 C 
+BRANCH  52  57
+ATOM     57  N   ASG d 608      24.835  20.844  -0.769  0.00  0.00    -0.349 N 
+ATOM     58  C7  ASG d 608      23.690  21.084  -1.408  0.00  0.00     0.214 C 
+ATOM     59  C8  ASG d 608      23.315  20.138  -2.542  0.00  0.00     0.117 C 
+ATOM     60  O7  ASG d 608      22.931  22.008  -1.118  0.00  0.00    -0.274 OA
+ATOM     61  H   ASG d 608      25.370  20.054  -1.011  0.00  0.00     0.163 HD
+ENDBRANCH  52  57
+BRANCH  53  62
+ATOM     62  O1  ASG d 608      24.712  20.263   2.060  0.00  0.00    -0.369 OA
+ATOM     63  H   ASG d 608      24.286  19.691   1.403  0.00  0.00     0.212 HD
+ENDBRANCH  53  62
+BRANCH  55  64
+ATOM     64  C6  ASG d 608      28.038  23.326   3.187  0.00  0.00     0.199 C 
+BRANCH  64  65
+ATOM     65  O6  ASG d 608      29.290  23.944   2.903  0.00  0.00    -0.398 OA
+ATOM     66  H   ASG d 608      29.947  23.262   2.695  0.00  0.00     0.209 HD
+ENDBRANCH  64  65
+ENDBRANCH  55  64
+BRANCH  56  67
+ATOM     67  O4  ASG d 608      26.017  24.304   1.443  0.00  0.00    -0.246 OA
+BRANCH  67  68
+ATOM     68  S   ASG d 608      26.020  25.870   1.147  0.00  0.00     0.252 S 
+ATOM     69  OSA ASG d 608      25.734  26.515   2.445  0.00  0.00    -0.572 OA
+ATOM     70  OSB ASG d 608      27.387  26.211   0.715  0.00  0.00    -0.572 OA
+ATOM     71  OSC ASG d 608      25.114  26.261   0.049  0.00  0.00    -0.572 OA
+ENDBRANCH  67  68
+ENDBRANCH  56  67
+ENDBRANCH  50  51
+ENDBRANCH   6  50
+TORSDOF 25

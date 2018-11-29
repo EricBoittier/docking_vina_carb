@@ -1,0 +1,7 @@
+REMARK 0 active torsions
+ROOT
+ATOM      1  O2  IDS d   6      -9.893  -6.484   1.732  0.00  0.00    -0.406 OA
+ATOM      2  C2  IDS d   6      -9.093  -5.499   1.110  0.00  0.00     0.197 C 
+ATOM      3  H   IDS d   6     -10.643  -6.702   1.157  0.00  0.00     0.208 HD
+ENDROOT
+TORSDOF 0

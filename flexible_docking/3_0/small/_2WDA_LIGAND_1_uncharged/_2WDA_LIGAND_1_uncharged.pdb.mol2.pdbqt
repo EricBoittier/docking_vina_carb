@@ -1,0 +1,82 @@
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: OCB_1  and  CCA_6 
+REMARK    2  A    between atoms: OBR_2  and  CBJ_9 
+REMARK    3  A    between atoms: OCF_4  and  CCE_11 
+REMARK    4  A    between atoms: OBM_5  and  CBE_20 
+REMARK    5  A    between atoms: CBG_8  and  OBO_24 
+REMARK    6  A    between atoms: CBJ_9  and  CBI_28 
+REMARK    7  A    between atoms: CCE_11  and  CCD_18 
+REMARK    8  A    between atoms: CBX_12  and  OBO_24 
+REMARK    9  A    between atoms: CBF_15  and  NBN_17 
+REMARK   10  A    between atoms: SBW_16  and  OBP_22 
+REMARK   11  A    between atoms: SBW_16  and  OBT_27 
+REMARK       I    between atoms: NBN_17  and  CBK_25 
+REMARK   12  A    between atoms: OBZ_21  and  CBY_23 
+REMARK   13  A    between atoms: OBP_22  and  CBH_29 
+ROOT
+ATOM      1  OBQ L42 d1784      31.663  21.606  31.527  0.00  0.00    -0.349 OA
+ATOM      2  CBG L42 d1784      29.353  20.074  30.697  0.00  0.00     0.185 C 
+ATOM      3  CBF L42 d1784      30.783  19.608  30.261  0.00  0.00     0.171 C 
+ATOM      4  CBE L42 d1784      31.711  20.851  30.217  0.00  0.00     0.282 C 
+ATOM      5  CBI L42 d1784      30.282  21.979  31.853  0.00  0.00     0.181 C 
+ATOM      6  CBH L42 d1784      29.403  20.732  32.039  0.00  0.00     0.206 C 
+ENDROOT
+BRANCH   2   7
+ATOM      7  OBO L42 d1784      28.354  19.119  30.851  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  CBX L42 d1784      27.414  19.177  29.826  0.00  0.00     0.298 C 
+ATOM      9  OCH L42 d1784      26.533  20.239  30.190  0.00  0.00    -0.311 OA
+ATOM     10  CCD L42 d1784      25.480  20.389  29.348  0.00  0.00     0.144 C 
+ATOM     11  CCC L42 d1784      24.982  19.334  28.566  0.00  0.00     0.051 C 
+ATOM     12  CCA L42 d1784      25.639  17.939  28.594  0.00  0.00     0.177 C 
+ATOM     13  CBY L42 d1784      26.583  17.865  29.769  0.00  0.00     0.206 C 
+BRANCH  10  14
+ATOM     14  CCE L42 d1784      24.881  21.789  29.307  0.00  0.00     0.200 C 
+ATOM     15  OCG L42 d1784      25.340  22.582  30.175  0.00  0.00    -0.645 OA
+BRANCH  14  16
+ATOM     16  OCF L42 d1784      23.943  22.034  28.507  0.00  0.00    -0.771 OA
+ATOM     17  H   L42 d1784      23.668  21.381  27.894  0.00  0.00     0.167 HD
+ENDBRANCH  14  16
+ENDBRANCH  10  14
+BRANCH  12  18
+ATOM     18  OCB L42 d1784      24.643  16.967  28.839  0.00  0.00    -0.389 OA
+ATOM     19  H   L42 d1784      24.003  16.969  28.110  0.00  0.00     0.210 HD
+ENDBRANCH  12  18
+BRANCH  13  20
+ATOM     20  OBZ L42 d1784      27.373  16.703  29.641  0.00  0.00    -0.388 OA
+ATOM     21  H   L42 d1784      26.798  15.923  29.611  0.00  0.00     0.210 HD
+ENDBRANCH  13  20
+ENDBRANCH   7   8
+ENDBRANCH   2   7
+BRANCH   3  22
+ATOM     22  NBN L42 d1784      30.528  18.950  28.988  0.00  0.00    -0.349 N 
+ATOM     23  CBK L42 d1784      30.593  17.614  28.854  0.00  0.00     0.214 C 
+ATOM     24  OBS L42 d1784      31.038  16.825  29.703  0.00  0.00    -0.274 OA
+ATOM     25  CBL L42 d1784      30.107  17.097  27.506  0.00  0.00     0.117 C 
+ATOM     26  H   L42 d1784      30.302  19.499  28.203  0.00  0.00     0.163 HD
+ENDBRANCH   3  22
+BRANCH   6  27
+ATOM     27  OBP L42 d1784      29.951  19.899  33.119  0.00  0.00    -0.253 OA
+BRANCH  27  28
+ATOM     28  SBW L42 d1784      29.003  19.620  34.248  0.00  0.00     0.240 S 
+ATOM     29  OBU L42 d1784      27.643  19.110  33.770  0.00  0.00    -0.579 OA
+ATOM     30  OBV L42 d1784      29.708  18.677  35.071  0.00  0.00    -0.579 OA
+BRANCH  28  31
+ATOM     31  OBT L42 d1784      28.753  20.825  35.073  0.00  0.00    -0.274 OA
+ATOM     32  H   L42 d1784      28.276  21.485  34.545  0.00  0.00     0.234 HD
+ENDBRANCH  28  31
+ENDBRANCH  27  28
+ENDBRANCH   6  27
+BRANCH   4  33
+ATOM     33  OBM L42 d1784      33.034  20.536  29.831  0.00  0.00    -0.369 OA
+ATOM     34  H   L42 d1784      33.569  21.345  29.820  0.00  0.00     0.212 HD
+ENDBRANCH   4  33
+BRANCH   5  35
+ATOM     35  CBJ L42 d1784      29.873  22.856  33.119  0.00  0.00     0.199 C 
+BRANCH  35  36
+ATOM     36  OBR L42 d1784      31.078  22.996  33.620  0.00  0.00    -0.398 OA
+ATOM     37  H   L42 d1784      31.031  23.526  34.431  0.00  0.00     0.209 HD
+ENDBRANCH  35  36
+ENDBRANCH   5  35
+TORSDOF 13

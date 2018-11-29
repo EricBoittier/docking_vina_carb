@@ -1,0 +1,5 @@
+REMARK 0 active torsions
+ROOT
+ATOM      1  H   NTO d 863      55.446  -1.514   3.438  0.00  0.00     0.000 HD
+ENDROOT
+TORSDOF 0
